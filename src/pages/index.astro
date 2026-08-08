@@ -1,0 +1,97 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../layouts/Layout.astro";
+
+const entrades = (await getCollection("entrades"))
+    .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const destacada = entrades[0];
+const ultimes = entrades.slice(1, 6);
+
+const formatData = (data) =>
+    data.toLocaleDateString("ca-ES", {
+        day: "numeric",
+        month: "long",
+        year: "numeric"
+    });
+---
+
+<Layout title="On acaba el soroll">
+
+    <main class="portada">
+
+        {destacada && (
+            <section class="destacada">
+
+                <p class="categoria">
+                    {destacada.data.category}
+                </p>
+
+                <h2>
+                    <a href={`/entrades/${destacada.id}/`}>
+                        {destacada.data.title}
+                    </a>
+                </h2>
+
+                <p class="fragment">
+                    {destacada.data.description}
+                </p>
+
+                <p class="meta">
+                    {formatData(destacada.data.date)}
+                </p>
+
+                <a
+                    class="llegir"
+                    href={`/entrades/${destacada.id}/`}
+                >
+                    Llegir →
+                </a>
+
+            </section>
+        )}
+
+
+        {ultimes.length > 0 && (
+            <section class="ultims">
+
+                <p class="seccio-titol">
+                    ÚLTIMS TEXTOS
+                </p>
+
+                {ultimes.map((entrada) => (
+
+                    <article class="resum">
+
+                        <div class="data">
+                            {formatData(entrada.data.date)}
+                        </div>
+
+                        <div class="contingut-resum">
+
+                            <p class="categoria">
+                                {entrada.data.category}
+                            </p>
+
+                            <h3>
+                                <a href={`/entrades/${entrada.id}/`}>
+                                    {entrada.data.title}
+                                </a>
+                            </h3>
+
+                            <p>
+                                {entrada.data.description}
+                            </p>
+
+                        </div>
+
+                    </article>
+
+                ))}
+
+            </section>
+        )}
+
+    </main>
+
+</Layout>

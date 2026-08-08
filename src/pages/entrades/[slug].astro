@@ -1,0 +1,88 @@
+---
+import { getCollection, render } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+
+export async function getStaticPaths() {
+    const entrades = await getCollection("entrades");
+
+    return entrades.map((entrada) => ({
+        params: {
+            slug: entrada.id
+        },
+        props: {
+            entrada
+        }
+    }));
+}
+
+const { entrada } = Astro.props;
+
+const { Content } = await render(entrada);
+
+const data = entrada.data.date.toLocaleDateString("ca-ES", {
+    day: "numeric",
+    month: "long",
+    year: "numeric"
+});
+---
+
+<Layout
+    title={`${entrada.data.title} · On acaba el soroll`}
+    description={entrada.data.description}
+>
+
+    <main>
+
+        <article class="entrada-completa">
+
+            <header class="cap-entrada">
+
+                <p class="categoria">
+                    {entrada.data.category}
+                </p>
+
+                <h2>
+                    {entrada.data.title}
+                </h2>
+
+                <p class="data-entrada">
+                    {data}
+                </p>
+
+                <p class="entradeta">
+                    {entrada.data.description}
+                </p>
+
+            </header>
+
+
+            <div class="cos-entrada">
+
+                <Content />
+
+            </div>
+
+
+            <footer class="peu-entrada">
+
+                <div class="etiquetes">
+
+                 {entrada.data.tags.map((tag) => (
+                 <a href={`/etiquetes/${tag}/`}>
+                   {tag}
+                  </a>
+                 ))}
+
+                </div>
+
+                <a href="/">
+                    ← Tornar a l'inici
+                </a>
+
+            </footer>
+
+        </article>
+
+    </main>
+
+</Layout>

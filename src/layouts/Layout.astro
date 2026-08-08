@@ -1,0 +1,88 @@
+---
+import "../styles/global.css";
+
+const {
+    title = "On acaba el soroll",
+    description = "El que queda quan calle"
+} = Astro.props;
+---
+
+<!doctype html>
+
+<html lang="ca">
+
+<head>
+
+    <meta charset="UTF-8" />
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    />
+
+    <title>{title}</title>
+
+    <meta name="description" content={description} />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <link
+        rel="preconnect"
+        href="https://fonts.gstatic.com"
+        crossorigin
+    >
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&family=Inter:wght@300;400;500&display=swap"
+        rel="stylesheet"
+    >
+
+</head>
+
+<body>
+
+<header class="capcalera">
+
+    <div class="marca">
+
+        <a href="/">
+            <h1>On acaba el soroll</h1>
+        </a>
+
+        <p>
+            El que queda quan calle
+        </p>
+
+    </div>
+
+<nav class="menu">
+    <a href="/">Inici</a>
+    <a href="/categories/dins/">Dins</a>
+    <a href="/categories/vincles/">Vincles</a>
+    <a href="/categories/absencies/">Absències</a>
+    <a href="/categories/el-mon/">El món</a>
+    <a href="/categories/pensament/">Pensament</a>
+
+    <span class="separador-menu">|</span>
+
+    <a href="/aquest-lloc/">Aquest lloc</a>
+    <a href="/sobre-mi/">Sobre mi</a>
+</nav>
+
+</header>
+
+
+    <slot />
+
+
+    <footer>
+
+        <p>
+            On acaba el soroll · 2026
+        </p>
+
+    </footer>
+
+</body>
+
+</html>

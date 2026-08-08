@@ -1,0 +1,123 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+
+export function getStaticPaths() {
+
+    const categories = [
+        {
+            nom: "Dins",
+            slug: "dins",
+            descripcio: "Allò que passa quan mire cap a dins."
+        },
+        {
+            nom: "Vincles",
+            slug: "vincles",
+            descripcio: "Les persones, les distàncies i tot el que ens uneix."
+        },
+        {
+            nom: "Absències",
+            slug: "absencies",
+            descripcio: "Allò que se'n va, allò que queda."
+        },
+        {
+            nom: "El món",
+            slug: "el-mon",
+            descripcio: "El que passa fora i, d'alguna manera, acaba passant dins."
+        },
+        {
+            nom: "Pensament",
+            slug: "pensament",
+            descripcio: "Preguntes, idees i coses que encara intente entendre."
+        }
+    ];
+
+    return categories.map((categoria) => ({
+        params: {
+            slug: categoria.slug
+        },
+        props: {
+            categoria
+        }
+    }));
+}
+
+const { categoria } = Astro.props;
+
+const entrades = (await getCollection("entrades"))
+    .filter((entrada) => entrada.data.category === categoria.nom)
+    .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const formatData = (data) =>
+    data.toLocaleDateString("ca-ES", {
+        day: "numeric",
+        month: "long",
+        year: "numeric"
+    });
+---
+
+<Layout title={`${categoria.nom} · On acaba el soroll`}>
+
+    <main class="pagina-categoria">
+
+        <section class="cap-categoria">
+
+            <p class="categoria">
+                CATEGORIA
+            </p>
+
+            <h2>{categoria.nom}</h2>
+
+            <p>
+                {categoria.descripcio}
+            </p>
+
+        </section>
+
+        <section class="llista-categoria">
+
+            {entrades.length === 0 ? (
+
+                <p class="categoria-buida">
+                    Encara no hi ha textos en este lloc.
+                </p>
+
+            ) : (
+
+                entrades.map((entrada) => (
+
+                    <article class="resum">
+
+                        <div class="data">
+                            {formatData(entrada.data.date)}
+                        </div>
+
+                        <div class="contingut-resum">
+
+                            <h3>
+                                <a href={`/entrades/${entrada.id}/`}>
+                                    {entrada.data.title}
+                                </a>
+                            </h3>
+
+                            <p>
+                                {entrada.data.description}
+                            </p>
+
+                            <p class="etiquetes">
+                                {entrada.data.tags.join(" · ")}
+                            </p>
+
+                        </div>
+
+                    </article>
+
+                ))
+
+            )}
+
+        </section>
+
+    </main>
+
+</Layout>

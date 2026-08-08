@@ -1,0 +1,97 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+
+export async function getStaticPaths() {
+
+    const entrades = await getCollection("entrades");
+
+    const totesLesEtiquetes = [
+        ...new Set(
+            entrades.flatMap((entrada) => entrada.data.tags)
+        )
+    ];
+
+    return totesLesEtiquetes.map((tag) => ({
+        params: {
+            tag
+        },
+        props: {
+            tag
+        }
+    }));
+}
+
+const { tag } = Astro.props;
+
+const entrades = (await getCollection("entrades"))
+    .filter((entrada) => entrada.data.tags.includes(tag))
+    .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const formatData = (data) =>
+    data.toLocaleDateString("ca-ES", {
+        day: "numeric",
+        month: "long",
+        year: "numeric"
+    });
+---
+
+<Layout title={`${tag} · On acaba el soroll`}>
+
+    <main class="pagina-categoria">
+
+        <section class="cap-categoria">
+
+            <p class="categoria">
+                ETIQUETA
+            </p>
+
+            <h2>{tag}</h2>
+
+            <p>
+                Textos que comparteixen aquest fil.
+            </p>
+
+        </section>
+
+        <section class="llista-categoria">
+
+            {entrades.map((entrada) => (
+
+                <article class="resum">
+
+                    <div class="data">
+                        {formatData(entrada.data.date)}
+                    </div>
+
+                    <div class="contingut-resum">
+
+                        <p class="categoria">
+                            {entrada.data.category}
+                        </p>
+
+                        <h3>
+                            <a href={`/entrades/${entrada.id}/`}>
+                                {entrada.data.title}
+                            </a>
+                        </h3>
+
+                        <p>
+                            {entrada.data.description}
+                        </p>
+
+                        <p class="etiquetes">
+                            {entrada.data.tags.join(" · ")}
+                        </p>
+
+                    </div>
+
+                </article>
+
+            ))}
+
+        </section>
+
+    </main>
+
+</Layout>
