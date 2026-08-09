@@ -845,3 +845,13 @@ footer {
         line-height: 1.2;
     }
 }
+.firma-entrada {
+    margin-bottom: 2.5rem;
+    text-align: right;
+
+    font-family: "Cormorant Garamond", Georgia, serif;
+    font-size: 1.15rem;
+    font-style: italic;
+
+    color: #555;
+}

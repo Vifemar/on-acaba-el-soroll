@@ -65,21 +65,25 @@ const data = entrada.data.date.toLocaleDateString("ca-ES", {
 
             <footer class="peu-entrada">
 
-                <div class="etiquetes">
+    <div class="firma-entrada">
+        — Vicent Ferrero
+    </div>
 
-                 {entrada.data.tags.map((tag) => (
-                 <a href={`/etiquetes/${tag}/`}>
-                   {tag}
-                  </a>
-                 ))}
+    <div class="etiquetes">
 
-                </div>
+        {entrada.data.tags.map((tag) => (
+            <a href={`/etiquetes/${tag}/`}>
+                {tag}
+            </a>
+        ))}
 
-                <a href="/">
-                    ← Tornar a l'inici
-                </a>
+    </div>
 
-            </footer>
+    <a href="/">
+        ← Tornar a l'inici
+    </a>
+
+</footer>
 
         </article>
 
