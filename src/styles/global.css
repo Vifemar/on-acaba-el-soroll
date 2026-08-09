@@ -937,3 +937,37 @@ footer {
         padding-right: 20px;
     }
 }
+@media (max-width: 600px) {
+
+    .destacada h2,
+    .contingut-resum h3,
+    .cap-entrada h1 {
+        max-width: none;
+        width: 100%;
+        word-break: normal;
+        overflow-wrap: normal;
+        hyphens: none;
+    }
+
+    .destacada h2 {
+        font-size: 2rem;
+        line-height: 1.08;
+    }
+
+    .contingut-resum h3 {
+        font-size: 1.7rem;
+        line-height: 1.12;
+    }
+
+    .cap-entrada h1 {
+        font-size: 2rem;
+        line-height: 1.08;
+    }
+
+    .portada,
+    .pagina-categoria,
+    .entrada-completa {
+        padding-left: 18px;
+        padding-right: 18px;
+    }
+}
