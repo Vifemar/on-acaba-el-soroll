@@ -12,102 +12,176 @@ const {
 <html lang="ca">
 
 <head>
+
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    />
 
     <title>{title}</title>
 
     <meta
         name="description"
-        content="On acaba el soroll. Un lloc per al que queda quan tot calla: pensaments, vincles, absències, temps i tot allò que encara intente entendre."
+        content={description}
     />
 
-    <link rel="canonical" href="https://onacabaelsoroll.cat/" />
+    <link
+        rel="canonical"
+        href="https://onacabaelsoroll.cat/"
+    />
 
     <!-- Favicon -->
-    <link rel="icon" href="/favicon.ico" sizes="any">
-    <link rel="icon" type="image/png" href="/favicon.png">
+
+    <link
+        rel="icon"
+        href="/favicon.ico"
+        sizes="any"
+    />
+
 
     <!-- Open Graph -->
-    <meta property="og:title" content="On acaba el soroll" />
-    <meta property="og:description" content="El que queda quan calle" />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://onacabaelsoroll.cat/" />
-    <meta property="og:image" content="https://onacabaelsoroll.cat/og-image.jpg" />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
 
-    <!-- Quan compartim la web -->
-    <meta property="og:type" content="website" />
-    <meta property="og:site_name" content="On acaba el soroll" />
-    <meta property="og:title" content={title} />
+    <meta
+        property="og:type"
+        content="website"
+    />
+
+    <meta
+        property="og:site_name"
+        content="On acaba el soroll"
+    />
+
+    <meta
+        property="og:title"
+        content={title}
+    />
+
     <meta
         property="og:description"
-        content="El que queda quan tot calla."
+        content={description}
     />
-    <meta property="og:url" content="https://onacabaelsoroll.cat/" />
+
+    <meta
+        property="og:url"
+        content="https://onacabaelsoroll.cat/"
+    />
+
     <meta
         property="og:image"
         content="https://onacabaelsoroll.cat/og-image.jpg"
     />
 
-    <!-- X / Twitter i altres clients compatibles -->
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content={title} />
+    <meta
+        property="og:image:width"
+        content="1200"
+    />
+
+    <meta
+        property="og:image:height"
+        content="630"
+    />
+
+
+    <!-- X / Twitter -->
+
+    <meta
+        name="twitter:card"
+        content="summary_large_image"
+    />
+
+    <meta
+        name="twitter:title"
+        content={title}
+    />
+
     <meta
         name="twitter:description"
-        content="El que queda quan tot calla."
+        content={description}
     />
+
     <meta
         name="twitter:image"
         content="https://onacabaelsoroll.cat/og-image.jpg"
     />
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+
+    <!-- Netlify Identity -->
+
+    <script
+        src="https://identity.netlify.com/v1/netlify-identity-widget.js">
+    </script>
+
 </head>
+
 
 <body>
 
-<header class="capcalera">
+    <header class="capcalera">
 
-    <div class="marca">
+        <div class="marca">
 
-        <img
-            src="/lluna-logo.png"
-            alt=""
-            class="logo-lluna"
-        />
+            <img
+                src="/lluna-logo.png"
+                alt=""
+                class="logo-lluna"
+            />
 
-        <div class="marca-text">
+            <div class="marca-text">
 
-            <h1>
-                <a href="/">On acaba el soroll</a>
-            </h1>
+                <h1>
+                    <a href="/">
+                        On acaba el soroll
+                    </a>
+                </h1>
 
-            <p class="subtitol">
-                El que queda quan calle
-            </p>
+                <p class="subtitol">
+                    El que queda quan calle
+                </p>
+
+            </div>
 
         </div>
 
-    </div>
 
-    <nav class="menu">
+        <nav class="menu">
 
-        <a href="/">Inici</a>
-        <a href="/categories/dins/">Dins</a>
-        <a href="/categories/vincles/">Vincles</a>
-        <a href="/categories/absencies/">Absències</a>
-        <a href="/categories/el-mon/">El món</a>
-        <a href="/categories/pensament/">Pensament</a>
+            <a href="/">Inici</a>
 
-        <span class="separador-menu">|</span>
+            <a href="/categories/dins/">
+                Dins
+            </a>
 
-        <a href="/aquest-lloc/">Aquest lloc</a>
-        <a href="/sobre-mi/">Sobre mi</a>
+            <a href="/categories/vincles/">
+                Vincles
+            </a>
 
-    </nav>
+            <a href="/categories/absencies/">
+                Absències
+            </a>
 
-</header>
+            <a href="/categories/el-mon/">
+                El món
+            </a>
+
+            <a href="/categories/pensament/">
+                Pensament
+            </a>
+
+            <span class="separador-menu">|</span>
+
+            <a href="/aquest-lloc/">
+                Aquest lloc
+            </a>
+
+            <a href="/sobre-mi/">
+                Sobre mi
+            </a>
+
+        </nav>
+
+    </header>
 
 
     <slot />
@@ -120,17 +194,36 @@ const {
         </p>
 
     </footer>
-<script is:inline>
-    if (window.netlifyIdentity) {
-        window.netlifyIdentity.on("init", user => {
-            if (!user) {
-                window.netlifyIdentity.on("login", () => {
-                    document.location.href = "/admin/";
-                });
-            }
-        });
-    }
-</script>
+
+
+    <!-- Gestió de Netlify Identity -->
+
+    <script is:inline>
+
+        if (window.netlifyIdentity) {
+
+            window.netlifyIdentity.on("init", () => {
+
+                const hash = window.location.hash;
+
+                if (
+                    hash.includes("invite_token") ||
+                    hash.includes("recovery_token") ||
+                    hash.includes("confirmation_token")
+                ) {
+                    window.netlifyIdentity.open();
+                }
+
+            });
+
+            window.netlifyIdentity.on("login", () => {
+                window.location.href = "/admin/";
+            });
+
+        }
+
+    </script>
+
 </body>
 
 </html>
