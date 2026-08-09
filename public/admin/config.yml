@@ -1,0 +1,62 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "public/uploads"
+public_folder: "/uploads"
+
+locale: "ca"
+
+collections:
+
+  - name: "entrades"
+    label: "Entrades"
+    label_singular: "Entrada"
+
+    folder: "src/content/entrades"
+    create: true
+
+    extension: "md"
+    format: "frontmatter"
+
+    slug: "{{slug}}"
+
+    editor:
+      preview: true
+
+    fields:
+
+      - label: "Títol"
+        name: "title"
+        widget: "string"
+
+      - label: "Data de publicació"
+        name: "date"
+        widget: "datetime"
+        date_format: "YYYY-MM-DD"
+        time_format: false
+        format: "YYYY-MM-DD"
+
+      - label: "Categoria"
+        name: "category"
+        widget: "select"
+        options:
+          - "Dins"
+          - "Vincles"
+          - "Absències"
+          - "El món"
+          - "Pensament"
+
+      - label: "Etiquetes"
+        name: "tags"
+        widget: "list"
+        required: false
+
+      - label: "Descripció"
+        name: "description"
+        widget: "text"
+        hint: "Text breu que apareixerà a la portada i en les previsualitzacions."
+
+      - label: "Text"
+        name: "body"
+        widget: "markdown"
