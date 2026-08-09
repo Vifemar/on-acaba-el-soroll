@@ -12,31 +12,46 @@ const {
 <html lang="ca">
 
 <head>
-
     <meta charset="UTF-8" />
-
-    <meta
-        name="viewport"
-        content="width=device-width, initial-scale=1.0"
-    />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <title>{title}</title>
 
-    <meta name="description" content={description} />
+    <meta
+        name="description"
+        content="On acaba el soroll. Un lloc per al que queda quan tot calla: pensaments, vincles, absències, temps i tot allò que encara intente entendre."
+    />
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="canonical" href="https://onacabaelsoroll.cat/" />
 
-    <link
-        rel="preconnect"
-        href="https://fonts.gstatic.com"
-        crossorigin
-    >
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 
-    <link
-        href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&family=Inter:wght@300;400;500&display=swap"
-        rel="stylesheet"
-    >
+    <!-- Quan compartim la web -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="On acaba el soroll" />
+    <meta property="og:title" content={title} />
+    <meta
+        property="og:description"
+        content="El que queda quan tot calla."
+    />
+    <meta property="og:url" content="https://onacabaelsoroll.cat/" />
+    <meta
+        property="og:image"
+        content="https://onacabaelsoroll.cat/og-image.jpg"
+    />
 
+    <!-- X / Twitter i altres clients compatibles -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta
+        name="twitter:description"
+        content="El que queda quan tot calla."
+    />
+    <meta
+        name="twitter:image"
+        content="https://onacabaelsoroll.cat/og-image.jpg"
+    />
 </head>
 
 <body>
@@ -45,29 +60,41 @@ const {
 
     <div class="marca">
 
-        <a href="/">
-            <h1>On acaba el soroll</h1>
-        </a>
+        <img
+            src="/lluna-logo.png"
+            alt=""
+            class="logo-lluna"
+        />
 
-        <p>
-            El que queda quan calle
-        </p>
+        <div class="marca-text">
+
+            <h1>
+                <a href="/">On acaba el soroll</a>
+            </h1>
+
+            <p class="subtitol">
+                El que queda quan calle
+            </p>
+
+        </div>
 
     </div>
 
-<nav class="menu">
-    <a href="/">Inici</a>
-    <a href="/categories/dins/">Dins</a>
-    <a href="/categories/vincles/">Vincles</a>
-    <a href="/categories/absencies/">Absències</a>
-    <a href="/categories/el-mon/">El món</a>
-    <a href="/categories/pensament/">Pensament</a>
+    <nav class="menu">
 
-    <span class="separador-menu">|</span>
+        <a href="/">Inici</a>
+        <a href="/categories/dins/">Dins</a>
+        <a href="/categories/vincles/">Vincles</a>
+        <a href="/categories/absencies/">Absències</a>
+        <a href="/categories/el-mon/">El món</a>
+        <a href="/categories/pensament/">Pensament</a>
 
-    <a href="/aquest-lloc/">Aquest lloc</a>
-    <a href="/sobre-mi/">Sobre mi</a>
-</nav>
+        <span class="separador-menu">|</span>
+
+        <a href="/aquest-lloc/">Aquest lloc</a>
+        <a href="/sobre-mi/">Sobre mi</a>
+
+    </nav>
 
 </header>
 

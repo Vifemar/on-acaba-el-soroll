@@ -416,7 +416,23 @@ footer {
     .cos-entrada {
         font-size: 1.08rem;
     }
+ .marca {
+    grid-template-columns: 70px auto 70px;
+    column-gap: 10px;
+}
 
+.logo-lluna {
+    width: 68px;
+    height: 68px;
+}
+
+.marca-text h1 {
+    font-size: 2.3rem;
+}
+
+.marca-text .subtitol {
+    font-size: 0.95rem;
+}
     /* Portada */
 
     .portada {
@@ -752,4 +768,35 @@ footer {
     .cos-entrada blockquote p {
         font-size: 1.3rem;
     }
+}
+.marca {
+    display: grid;
+    grid-template-columns: 210px auto 210px;
+    align-items: center;
+    justify-content: center;
+    column-gap: 18px;
+}
+
+.logo-lluna {
+    width: 210px;
+    height: 210px;
+    object-fit: contain;
+    justify-self: end;
+
+    /* compensa l'espai buit que porta la imatge */
+    transform: scale(1.25);
+    transform-origin: right center;
+}
+
+.marca-text {
+    grid-column: 2;
+    text-align: left;
+}
+
+.marca-text h1 {
+    margin: 0;
+}
+
+.marca-text .subtitol {
+    margin: 8px 0 0;
 }
