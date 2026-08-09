@@ -855,3 +855,85 @@ footer {
 
     color: #555;
 }
+@media (max-width: 600px) {
+
+    /* Títol principal del blog */
+    .marca-text h1 {
+        font-size: 1.75rem;
+        line-height: 1.05;
+        letter-spacing: -0.5px;
+    }
+
+    .marca-text .subtitol {
+        font-size: 0.9rem;
+        line-height: 1.25;
+        margin-top: 6px;
+    }
+
+    /* Títols de les entrades */
+    .cap-entrada h1 {
+        font-size: 2rem;
+        line-height: 1.1;
+        letter-spacing: -0.5px;
+    }
+
+    /* Títols de portada / resums */
+    .resum h2,
+    .resum h3 {
+        font-size: 1.8rem;
+        line-height: 1.15;
+    }
+
+    /* Títols de categories */
+    .cap-categoria h2 {
+        font-size: 2rem;
+        line-height: 1.1;
+    }
+
+}
+/* ==================================
+   AJUSTOS FINALS PER A MÒBIL
+   ================================== */
+
+@media (max-width: 600px) {
+
+    /* Títol On acaba el soroll */
+    .marca-text h1 {
+        font-size: 1.75rem;
+        line-height: 1.05;
+        letter-spacing: -0.5px;
+    }
+
+    /* Subtítol El que queda quan calle */
+    .marca-text .subtitol {
+        font-size: 0.9rem;
+        line-height: 1.25;
+        margin-top: 6px;
+    }
+
+    /* Títol quan entres en una entrada */
+    .cap-entrada h1 {
+        font-size: 2rem;
+        line-height: 1.1;
+        letter-spacing: -0.5px;
+    }
+
+    /* Títols que apareixen a la portada */
+    .resum h2,
+    .resum h3 {
+        font-size: 1.8rem;
+        line-height: 1.15;
+    }
+
+    /* Títol de les categories */
+    .cap-categoria h2 {
+        font-size: 2rem;
+        line-height: 1.1;
+    }
+
+    /* Més espai útil per al text */
+    .entrada {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
