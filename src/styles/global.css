@@ -800,3 +800,48 @@ footer {
 .marca-text .subtitol {
     margin: 8px 0 0;
 }
+/* --------------------------------
+   CAPÇALERA MÒBIL
+-------------------------------- */
+
+@media (max-width: 600px) {
+
+    .marca {
+        display: grid;
+        grid-template-columns: 72px minmax(0, 1fr) 72px;
+        align-items: center;
+        justify-content: center;
+        column-gap: 8px;
+    }
+
+    .logo-lluna {
+        width: 82px;
+        height: 82px;
+
+        object-fit: contain;
+
+        justify-self: end;
+
+        transform: scale(1.05);
+        transform-origin: right center;
+    }
+
+    .marca-text {
+        grid-column: 2;
+        text-align: center;
+        min-width: 0;
+    }
+
+    .marca-text h1 {
+        margin: 0;
+        font-size: 2.35rem;
+        line-height: 0.95;
+        letter-spacing: -1px;
+    }
+
+    .marca-text .subtitol {
+        margin: 10px 0 0;
+        font-size: 1rem;
+        line-height: 1.2;
+    }
+}
