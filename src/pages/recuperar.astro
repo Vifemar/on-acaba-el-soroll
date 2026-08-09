@@ -1,0 +1,36 @@
+---
+import Layout from "../layouts/Layout.astro";
+---
+
+<Layout title="Recuperar accés · On acaba el soroll">
+
+    <main class="entrada">
+        <article class="article-entrada">
+
+            <header class="cap-entrada">
+                <p class="categoria">ADMINISTRACIÓ</p>
+                <h1>Recuperar accés</h1>
+            </header>
+
+            <div class="cos-entrada">
+                <p>
+                    Estem completant la recuperació del teu accés al panell.
+                </p>
+            </div>
+
+        </article>
+    </main>
+<script is:inline>
+    const hash = window.location.hash;
+
+    if (hash.includes("recovery_token=")) {
+        const token = new URLSearchParams(
+            hash.substring(1)
+        ).get("recovery_token");
+
+        if (window.netlifyIdentity && token) {
+            window.netlifyIdentity.open("login");
+        }
+    }
+</script>
+</Layout>

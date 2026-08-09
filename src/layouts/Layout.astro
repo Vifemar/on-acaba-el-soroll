@@ -40,7 +40,6 @@ const {
         sizes="any"
     />
 
-
     <!-- Open Graph -->
 
     <meta
@@ -83,7 +82,6 @@ const {
         content="630"
     />
 
-
     <!-- X / Twitter -->
 
     <meta
@@ -106,7 +104,6 @@ const {
         content="https://onacabaelsoroll.cat/og-image.jpg"
     />
 
-
     <!-- Netlify Identity -->
 
     <script
@@ -114,7 +111,6 @@ const {
     </script>
 
 </head>
-
 
 <body>
 
@@ -144,40 +140,19 @@ const {
 
         </div>
 
-
         <nav class="menu">
 
             <a href="/">Inici</a>
-
-            <a href="/categories/dins/">
-                Dins
-            </a>
-
-            <a href="/categories/vincles/">
-                Vincles
-            </a>
-
-            <a href="/categories/absencies/">
-                Absències
-            </a>
-
-            <a href="/categories/el-mon/">
-                El món
-            </a>
-
-            <a href="/categories/pensament/">
-                Pensament
-            </a>
+            <a href="/categories/dins/">Dins</a>
+            <a href="/categories/vincles/">Vincles</a>
+            <a href="/categories/absencies/">Absències</a>
+            <a href="/categories/el-mon/">El món</a>
+            <a href="/categories/pensament/">Pensament</a>
 
             <span class="separador-menu">|</span>
 
-            <a href="/aquest-lloc/">
-                Aquest lloc
-            </a>
-
-            <a href="/sobre-mi/">
-                Sobre mi
-            </a>
+            <a href="/aquest-lloc/">Aquest lloc</a>
+            <a href="/sobre-mi/">Sobre mi</a>
 
         </nav>
 
@@ -199,16 +174,19 @@ const {
     <!-- Gestió de Netlify Identity -->
 
     <script is:inline>
-
         if (window.netlifyIdentity) {
 
             window.netlifyIdentity.on("init", () => {
 
                 const hash = window.location.hash;
 
+                if (hash.includes("recovery_token")) {
+                    window.location.href = "/recuperar/" + hash;
+                    return;
+                }
+
                 if (
                     hash.includes("invite_token") ||
-                    hash.includes("recovery_token") ||
                     hash.includes("confirmation_token")
                 ) {
                     window.netlifyIdentity.open();
@@ -221,7 +199,6 @@ const {
             });
 
         }
-
     </script>
 
 </body>
