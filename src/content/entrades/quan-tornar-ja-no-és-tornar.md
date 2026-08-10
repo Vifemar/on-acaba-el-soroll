@@ -216,7 +216,7 @@ Ella es quedà quieta.
 
 Ella el mirà sense entendre'l.
 
-— De la persona que eres quan estàvem junts.
+— De la persona que eres quan estem junts.
 
 — Soc la mateixa persona.
 
@@ -416,7 +416,7 @@ Ell va somriure.
 
 — Quines coses?
 
-— Deixar-me a mi i deixar tot açò.
+— Deixar de parlar amb a mi i deixar tot açò.
 
 Ella no digué res.
 
