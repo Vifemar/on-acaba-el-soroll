@@ -710,37 +710,37 @@ Ell tardà una fracció de segon massa a contestar.
 
 Ella ho va notar. Naturalment que ho va notar. Però aquesta vegada no digué res.
 
-—Potser això és el que em fa més por —continuà—. Que no sé si podré.
+— Potser això és el que em fa més por —continuà—. Que no sé si podré.
 
-—Què?
+— Què?
 
 —Tornar a ser com abans.
 
 Ell la mirà llargament.
 
-—Potser no has de fer-ho.
+— Potser no has de fer-ho.
 
 Ella respirà fondo.
 
-—Abans era feliç.
+— Abans era feliç.
 
-—No ho dubte.
+— No ho dubte.
 
-—Aleshores per què no hauria de voler tornar?
+— Aleshores per què no hauria de voler tornar?
 
-—Perquè saber una cosa canvia la persona que la sap.
+— Perquè saber una cosa canvia la persona que la sap.
 
 Ella frunzí el front.
 
-—Això sona a una de les teues frases.
+— Això sona a una de les teues frases.
 
-—Ho és. Me l'acabe d'inventar.
+— Ho és. Me l'acabe d'inventar.
 
 Ella somrigué.
 
 Ell també.
 
-—Pots renunciar a mi —digué després—. I potser has de fer-ho. Però no sé si pots tornar a desconéixer-te.
+— Pots renunciar a mi —digué després—. I potser has de fer-ho. Però no sé si pots tornar a desconéixer-te.
 
 Ella deixà de somriure.
 
@@ -750,35 +750,35 @@ Ell pensà que recordaria aquell gest.
 
 No ho digué.
 
-—Així que no creus que evitar-me solucione res.
+— Així que no creus que evitar-me solucione res.
 
-—No. Crec que pot solucionar moltes coses.
+— No. Crec que pot solucionar moltes coses.
 
 Ella semblà sorpresa.
 
-—Pot donar-te distància. Pot fer que deixes d'estar pendent de mi. Que els sentiments baixen d'intensitat. Que recuperes espai mental. Que pugues mirar la teua vida sense que jo estiga constantment enmig. Tot això és real.
+— Pot donar-te distància. Pot fer que deixes d'estar pendent de mi. Que els sentiments baixen d'intensitat. Que recuperes espai mental. Que pugues mirar la teua vida sense que jo estiga constantment enmig. Tot això és real.
 
-—Però no soluciona açò.
+— Però no soluciona açò.
 
 Ell negà amb el cap.
 
-—No necessàriament.
+— No necessàriament.
 
-—Perquè tu només eres...
+— Perquè tu només eres...
 
-—No digues «el detonant». Em fa sentir com una bomba.
+— No digues «el detonant». Em fa sentir com una bomba.
 
 Ella va riure.
 
-—Anava a dir el mirall.
+— Anava a dir el mirall.
 
 Ell callà.
 
-—Tu eres el mirall —continuà ella—. Però el que vaig veure era meu.
+— Tu eres el mirall —continuà ella—. Però el que vaig veure era meu.
 
 Ell assentí.
 
-—Sí.
+— Sí.
 
 I aquella vegada cap dels dos necessità afegir res.
 
@@ -786,17 +786,17 @@ El cambrer començava a retirar les taules buides.
 
 Ella mirà l'hora.
 
-—Me n'he d'anar.
+— Me n'he d'anar.
 
-—Ja.
+— Ja.
 
 Cap dels dos es mogué.
 
-—Açò és ridícul —digué ella.
+— Açò és ridícul —digué ella.
 
-—Bastant.
+— Bastant.
 
-—He dit que me n'he d'anar i continuem asseguts.
+— He dit que me n'he d'anar i continuem asseguts.
 
 —Tècnicament no has especificat quan.
 
