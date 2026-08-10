@@ -134,133 +134,133 @@ Ella tornà a mirar-lo.
 
 — Ja estem.
 
-—No vull convéncer-te de res.
+— No vull convéncer-te de res.
 
-—Doncs no ho faces.
+— Doncs no ho faces.
 
-—No ho faré.
+— No ho faré.
 
 Ell agafà el got, en begué un glop i el tornà a deixar exactament al mateix lloc.
 
-—Si necessites que jo no estiga, no estaré.
+— Si necessites que jo no estiga, no estaré.
 
 Ella parpellejà. Aquella frase havia arribat sense dramatisme i potser per això li va fer més mal.
 
-—No ho digues així.
+— No ho digues així.
 
-—Com vols que ho diga?
+— Com vols que ho diga?
 
-—No sé.
+— No sé.
 
-—Jo tampoc.
+— Jo tampoc.
 
 Ella es fregà un dit amb l'altre.
 
-—És que no és contra tu.
+— És que no és contra tu.
 
-—Ja ho sé.
+— Ja ho sé.
 
-—Necessite recuperar la meua vida.
+— Necessite recuperar la meua vida.
 
-—També ho sé.
+— També ho sé.
 
-—Tornar a estar tranquil·la.
+— Tornar a estar tranquil·la.
 
 —Ho entenc.
 
-—Doncs ja està.
+— Doncs ja està.
 
 Ell la mirà.
 
-—Ja està.
+— Ja està.
 
 Però alguna cosa en la manera de repetir-ho va fer que ella arrufara el front.
 
-—Què?
+— Què?
 
-—Res.
+— Res.
 
-—Et conec.
+— Et conec.
 
 Ell somrigué.
 
-—Això també és part del problema, supose.
+— Això també és part del problema, supose.
 
-—Digues-ho.
+— Digues-ho.
 
-—No sé si vols sentir-ho.
+— No sé si vols sentir-ho.
 
-—Ara digues-ho.
+— Ara digues-ho.
 
 Ell va mirar un moment cap al carrer.
 
-—Crec que allunyar-te de mi pot fer que deixes de patir per mi. El que no sé és si farà desaparéixer tot el que has descobert sobre tu.
+— Crec que allunyar-te de mi pot fer que deixes de patir per mi. El que no sé és si farà desaparéixer tot el que has descobert sobre tu.
 
 Ella no contestà.
 
-—No vull convertir açò en una tragèdia —continuà ell—. Ni dir-te que estàs equivocant-te. Potser és exactament el que has de fer.
+— No vull convertir açò en una tragèdia —continuà ell—. Ni dir-te que estàs equivocant-te. Potser és exactament el que has de fer.
 
-—Aleshores?
+— Aleshores?
 
-—Que una decisió siga coherent no significa que tot el que elimina fora roín.
+— Que una decisió siga coherent no significa que tot el que elimina fora roín.
 
 Ella es quedà quieta.
 
-—Jo no he dit que tu sigues roín.
+— Jo no he dit que tu sigues roín.
 
-—No parle de mi.
+— No parle de mi.
 
-—Doncs de què?
+— Doncs de què?
 
-—De tu.
+— De tu.
 
 Ella el mirà sense entendre'l.
 
-—De la persona que eres quan estàvem junts.
+— De la persona que eres quan estàvem junts.
 
-—Soc la mateixa persona.
+— Soc la mateixa persona.
 
-—Clar que sí.
+— Clar que sí.
 
 Ell somrigué.
 
-—Però no sempre eres igual.
+— Però no sempre eres igual.
 
 Ella va apartar una mà de la tassa.
 
-—No t'entenc.
+— No t'entenc.
 
-—Reies diferent.
+— Reies diferent.
 
-—Quina estupidesa.
+— Quina estupidesa.
 
-—Probablement.
+— Probablement.
 
-—La gent no riu diferent.
+— La gent no riu diferent.
 
-—Tu sí.
+— Tu sí.
 
 Ella negà amb el cap, però havia aparegut una altra vegada aquell somriure.
 
-—Eres idiota.
+— Eres idiota.
 
-—També.
+— També.
 
 Ell va deixar passar uns segons.
 
-—Em contaves coses absurdes.
+— Em contaves coses absurdes.
 
-—Sempre conte coses absurdes.
+— Sempre conte coses absurdes.
 
-—Però me les contaves perquè sabies que jo voldria escoltar-les.
+— Però me les contaves perquè sabies que jo voldria escoltar-les.
 
 El somriure desaparegué lentament.
 
-—M'escrivies quan et passava alguna cosa. Important o no. M'enviaves qualsevol tonteria que t'havia fet gràcia. De vegades només per dir-me una frase. I jo tenia la sensació que, durant un moment, no havies de ser res per a ningú.
+— M'escrivies quan et passava alguna cosa. Important o no. M'enviaves qualsevol tonteria que t'havia fet gràcia. De vegades només per dir-me una frase. I jo tenia la sensació que, durant un moment, no havies de ser res per a ningú.
 
 Ella baixà els ulls.
 
-—No continues.
+— No continues.
 
 Ell callà.
 
