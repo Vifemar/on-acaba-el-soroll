@@ -46,6 +46,7 @@ collections:
           - "Absències"
           - "El món"
           - "Pensament"
+          - "Fragments"
 
       - label: "Etiquetes"
         name: "tags"

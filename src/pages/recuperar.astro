@@ -13,24 +13,129 @@ import Layout from "../layouts/Layout.astro";
             </header>
 
             <div class="cos-entrada">
-                <p>
-                    Estem completant la recuperació del teu accés al panell.
+
+                <p id="estat">
+                    Processant la recuperació...
                 </p>
+
+                <div id="formulari" style="display:none;">
+
+                    <label for="nova-password">
+                        Nova contrasenya
+                    </label>
+
+                    <input
+                        id="nova-password"
+                        type="password"
+                        autocomplete="new-password"
+                    />
+
+                    <label for="repetir-password">
+                        Repetix la contrasenya
+                    </label>
+
+                    <input
+                        id="repetir-password"
+                        type="password"
+                        autocomplete="new-password"
+                    />
+
+                    <button id="guardar-password">
+                        Guardar contrasenya
+                    </button>
+
+                </div>
+
             </div>
 
         </article>
     </main>
-<script is:inline>
-    const hash = window.location.hash;
 
-    if (hash.includes("recovery_token=")) {
-        const token = new URLSearchParams(
-            hash.substring(1)
-        ).get("recovery_token");
+    <script>
+        import {
+            handleAuthCallback,
+            updateUser
+        } from "@netlify/identity";
 
-        if (window.netlifyIdentity && token) {
-            window.netlifyIdentity.open("login");
+        const estat = document.getElementById("estat");
+        const formulari = document.getElementById("formulari");
+        const boto = document.getElementById("guardar-password");
+
+        try {
+
+            const resultat = await handleAuthCallback();
+
+            if (
+                resultat &&
+                resultat.type === "recovery"
+            ) {
+
+                estat.textContent =
+                    "Ara pots crear la teua nova contrasenya.";
+
+                formulari.style.display = "block";
+
+            } else {
+
+                estat.textContent =
+                    "L'enllaç de recuperació no és vàlid o ha caducat.";
+
+            }
+
+        } catch (error) {
+
+            console.error(error);
+
+            estat.textContent =
+                "No s'ha pogut processar l'enllaç de recuperació.";
+
         }
-    }
-</script>
+
+        boto?.addEventListener("click", async () => {
+
+            const password =
+                document.getElementById("nova-password").value;
+
+            const repetir =
+                document.getElementById("repetir-password").value;
+
+            if (!password || password.length < 8) {
+                estat.textContent =
+                    "La contrasenya ha de tindre almenys 8 caràcters.";
+                return;
+            }
+
+            if (password !== repetir) {
+                estat.textContent =
+                    "Les dues contrasenyes no coincidixen.";
+                return;
+            }
+
+            try {
+
+                await updateUser({
+                    password
+                });
+
+                estat.textContent =
+                    "Contrasenya guardada. Redirigint al panell...";
+
+                formulari.style.display = "none";
+
+                setTimeout(() => {
+                    window.location.href = "/admin/";
+                }, 1200);
+
+            } catch (error) {
+
+                console.error(error);
+
+                estat.textContent =
+                    "No s'ha pogut guardar la contrasenya.";
+
+            }
+
+        });
+    </script>
+
 </Layout>

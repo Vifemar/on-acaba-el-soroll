@@ -19,7 +19,8 @@ const entrades = defineCollection({
             "Vincles",
             "Absències",
             "El món",
-            "Pensament"
+            "Pensament",
+            "Fragments"
         ]),
 
         tags: z.array(z.string()).default([]),
