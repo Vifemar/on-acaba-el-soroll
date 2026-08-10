@@ -350,79 +350,79 @@ Ell assentí.
 
 Passaren uns segons.
 
-—Ho veus? —digué ella—. Per això necessite distància.
+— Ho veus? —digué ella—. Per això necessite distància.
 
-—Sí.
+— Sí.
 
-—Perquè si no, no pare de pensar.
+— Perquè si no, no pare de pensar.
 
-—Sí.
+— Sí.
 
-—De qüestionar-me coses.
+— De qüestionar-me coses.
 
-—Sí.
+— Sí.
 
-—De sentir.
+— De sentir.
 
 Ell abaixà la mirada.
 
-—Sí.
+— Sí.
 
 Ella inspirà profundament.
 
-—Necessite deixar de sentir tot això.
+— Necessite deixar de sentir tot això.
 
 Ell no contestà immediatament.
 
-—Potser.
+— Potser.
 
 Ella va alçar els ulls.
 
-—¿Potser?
+— ¿Potser?
 
 —No sé si deixar de veure'm farà que deixes de sentir-ho. Probablement farà que deixe de fer tant de soroll.
 
-—Ja seria molt.
+— Ja seria molt.
 
-—Sí.
+— Sí.
 
-—No em sembla poc.
+— No em sembla poc.
 
-—A mi tampoc.
+— A mi tampoc.
 
 Ella el mirà amb certa sorpresa. Potser esperava que discutira, que insistira, que convertira la seua decisió en una batalla.
 
 Però ell no ho va fer.
 
-—Si això et dona pau —digué—, jo no tinc dret a llevar-te-la.
+— Si això et dona pau —digué—, jo no tinc dret a llevar-te-la.
 
 Ella va empassar saliva.
 
-—Gràcies.
+— Gràcies.
 
-—Però...
+— Però...
 
 Ella tancà els ulls.
 
-—Sabia que hi havia un però.
+— Sabia que hi havia un però.
 
-—Un de menudet.
+— Un de menudet.
 
-—Els teus «peròs menudets» solen ser terribles.
+— Els teus «peròs menudets» solen ser terribles.
 
 Ell va somriure.
 
-—Només vull que no confundisques una cosa amb una altra.
+— Només vull que no confundisques una cosa amb una altra.
 
-—Quines coses?
+— Quines coses?
 
-—Deixar-me a mi i deixar tot açò.
+— Deixar-me a mi i deixar tot açò.
 
 Ella no digué res.
 
-—Pots decidir que no vols aquesta relació. Pots decidir que la vida que tens és la vida que vols. Pots pensar que seguir alimentant açò acabaria fent mal a massa gent, inclosa tu. Tot això ho puc entendre.
+— Pots decidir que no vols aquesta relació. Pots decidir que la vida que tens és la vida que vols. Pots pensar que seguir alimentant açò acabaria fent mal a massa gent, inclosa tu. Tot això ho puc entendre.
 
-—Però.
+— Però.
 
 —Però no necessites convertir el que ha passat en un error perquè la decisió siga correcta.
 
