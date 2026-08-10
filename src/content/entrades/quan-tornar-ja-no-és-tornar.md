@@ -380,7 +380,7 @@ Ella va alçar els ulls.
 
 — ¿Potser?
 
-—No sé si deixar de veure'm farà que deixes de sentir-ho. Probablement farà que deixe de fer tant de soroll.
+— No sé si deixar de veure'm farà que deixes de sentir-ho. Probablement farà que deixe de fer tant de soroll.
 
 — Ja seria molt.
 
