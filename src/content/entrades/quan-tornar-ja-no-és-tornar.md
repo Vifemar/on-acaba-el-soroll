@@ -508,77 +508,77 @@ I ell la mirà.
 
 Ella ho notà.
 
-—No.
+— No.
 
-—Què?
+— Què?
 
-—No em mires així.
+— No em mires així.
 
-—Així com?
+— Així com?
 
-—Com si volgueres guardar aquest moment.
+— Com si volgueres guardar aquest moment.
 
 Ell va apartar els ulls.
 
-—Perdona.
+— Perdona.
 
-—No he dit que em moleste.
+— No he dit que em moleste.
 
 I aquella frase quedà entre els dos, viva i inútil.
 
 Ella fou qui la trencà.
 
-—Supose que la diferència està en què faça després.
+— Supose que la diferència està en què faça després.
 
 Ell tornà a mirar-la.
 
-—Potser.
+— Potser.
 
-—Si m'allunye de tu i continue amb la meua vida...
+— Si m'allunye de tu i continue amb la meua vida...
 
-—Sí.
+— Sí.
 
-—...però intente entendre per què tot açò m'ha afectat tant...
+— ...però intente entendre per què tot açò m'ha afectat tant...
 
 Ell assentí.
 
-—Per què necessitava sentir-me així.
+— Per què necessitava sentir-me així.
 
-—Sí.
+— Sí.
 
-—Per què m'importava tant que em preguntares com estava.
+— Per què m'importava tant que em preguntares com estava.
 
-—Sí.
+— Sí.
 
-—O que em digueres coses boniques.
+— O que em digueres coses boniques.
 
-—O que te les cregueres durant cinc minuts.
+— O que te les cregueres durant cinc minuts.
 
 Ella somrigué.
 
-—Alguna vegada deu haver sigut més de cinc.
+— Alguna vegada deu haver sigut més de cinc.
 
-—Set, màxim.
+— Set, màxim.
 
 Ella negà amb el cap.
 
 Després tornà a posar-se seriosa.
 
-—Potser això sí que m'ho he de quedar.
+— Potser això sí que m'ho he de quedar.
 
 Ell no digué res.
 
-—No tu —afegí ella ràpidament.
+— No tu —afegí ella ràpidament.
 
 Ell va somriure.
 
-—Ho havia entés.
+— Ho havia entés.
 
-—Ja.
+— Ja.
 
-—Encara que ha sonat fatal.
+— Encara que ha sonat fatal.
 
-—Calla.
+— Calla.
 
 Per primera vegada en tota la vesprada, el silenci no resultà incòmode.
 
@@ -588,11 +588,11 @@ Ella mirà les seues mans.
 
 Ell no respongué.
 
-—O sentir-me admirada de tant en tant. No sé. Que algú tinga curiositat per mi. Que em pregunte com estic i no siga només una fórmula. Sentir que algú veu coses en mi que jo... havia deixat de veure.
+— O sentir-me admirada de tant en tant. No sé. Que algú tinga curiositat per mi. Que em pregunte com estic i no siga només una fórmula. Sentir que algú veu coses en mi que jo... havia deixat de veure.
 
 Va alçar els ulls.
 
-—Sentir-me atractiva.
+— Sentir-me atractiva.
 
 Ell somrigué.
 
