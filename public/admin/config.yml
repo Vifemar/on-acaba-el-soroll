@@ -7,6 +7,8 @@ public_folder: "/uploads"
 
 locale: "ca"
 
+publish_mode: editorial_workflow
+
 collections:
 
   - name: "entrades"
@@ -57,6 +59,18 @@ collections:
         name: "description"
         widget: "text"
         hint: "Text breu que apareixerà a la portada i en les previsualitzacions."
+
+      - label: "Imatge principal"
+        name: "image"
+        widget: "image"
+        required: false
+        hint: "Opcional. Imatge associada a l'entrada."
+
+      - label: "Frase per a Story"
+        name: "story_text"
+        widget: "text"
+        required: false
+        hint: "Frase breu que podrem utilitzar per generar una Story d'Instagram."
 
       - label: "Text"
         name: "body"
