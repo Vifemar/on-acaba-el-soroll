@@ -57,10 +57,16 @@ body {
     border-bottom: 1px solid #d5d0c8;
 
     padding: 17px 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    gap: 22px;
 }
 
 .menu a {
-    margin: 0 20px;
+    margin: 0;
 
     font-family: "Inter", sans-serif;
     font-size: 0.72rem;
@@ -73,6 +79,8 @@ body {
     text-decoration: none;
 
     transition: color 0.3s ease;
+
+    white-space: nowrap;
 }
 
 .menu a:hover {

@@ -10,6 +10,47 @@ locale: "ca"
 publish_mode: editorial_workflow
 
 collections:
+  - name: "pagines"
+    label: "Pàgines"
+
+    files:
+
+      - name: "aquest-lloc"
+        label: "Aquest lloc"
+        file: "src/content/pagines/aquest-lloc.md"
+
+        fields:
+
+          - label: "Títol"
+            name: "title"
+            widget: "string"
+
+          - label: "Etiqueta"
+            name: "label"
+            widget: "string"
+
+          - label: "Text"
+            name: "body"
+            widget: "markdown"
+
+
+      - name: "sobre-mi"
+        label: "Sobre mi"
+        file: "src/content/pagines/sobre-mi.md"
+
+        fields:
+
+          - label: "Títol"
+            name: "title"
+            widget: "string"
+
+          - label: "Etiqueta"
+            name: "label"
+            widget: "string"
+
+          - label: "Text"
+            name: "body"
+            widget: "markdown"
 
   - name: "entrades"
     label: "Entrades"
@@ -23,6 +64,8 @@ collections:
 
     slug: "{{slug}}"
 
+    summary: "{{title}} · {{category}} · {{date}}"
+
     editor:
       preview: true
 
@@ -31,13 +74,15 @@ collections:
       - label: "Títol"
         name: "title"
         widget: "string"
+        hint: "El títol principal de l'entrada."
 
       - label: "Data de publicació"
         name: "date"
         widget: "datetime"
-        date_format: "YYYY-MM-DD"
+        date_format: "DD/MM/YYYY"
         time_format: false
         format: "YYYY-MM-DD"
+        default: "{{now}}"
 
       - label: "Categoria"
         name: "category"
@@ -54,24 +99,29 @@ collections:
         name: "tags"
         widget: "list"
         required: false
+        hint: "Paraules que relacionen aquesta entrada amb altres textos."
 
       - label: "Descripció"
         name: "description"
         widget: "text"
-        hint: "Text breu que apareixerà a la portada i en les previsualitzacions."
+        hint: "Una frase breu per a portada, SEO i previsualitzacions."
 
       - label: "Imatge principal"
         name: "image"
         widget: "image"
         required: false
-        hint: "Opcional. Imatge associada a l'entrada."
+        choose_url: false
+        hint: "Opcional. Imatge relacionada amb l'entrada."
 
       - label: "Frase per a Story"
         name: "story_text"
         widget: "text"
         required: false
-        hint: "Frase breu que podrem utilitzar per generar una Story d'Instagram."
+        hint: "Una frase breu que vulgues destacar quan compartisques l'entrada."
 
       - label: "Text"
         name: "body"
         widget: "markdown"
+        modes:
+          - "rich_text"
+          - "raw"

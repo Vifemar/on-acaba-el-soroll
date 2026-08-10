@@ -3,7 +3,6 @@ import { glob } from "astro/loaders";
 import { z } from "astro/zod";
 
 const entrades = defineCollection({
-
     loader: glob({
         pattern: "**/*.md",
         base: "./src/content/entrades"
@@ -25,11 +24,25 @@ const entrades = defineCollection({
 
         tags: z.array(z.string()).default([]),
 
-        description: z.string()
+        description: z.string(),
+        image: z.string().optional(),
+        story_text: z.string().optional()
     })
+});
 
+const pagines = defineCollection({
+    loader: glob({
+        pattern: "**/*.md",
+        base: "./src/content/pagines"
+    }),
+
+    schema: z.object({
+        title: z.string(),
+        label: z.string()
+    })
 });
 
 export const collections = {
-    entrades
+    entrades,
+    pagines
 };
