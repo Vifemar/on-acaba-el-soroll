@@ -266,37 +266,37 @@ Ell callà.
 
 Aquesta vegada fou ella qui reprengué la conversa.
 
-—¿Què vols dir amb això?
+— ¿Què vols dir amb això?
 
 Ell pensà abans de respondre.
 
-—Que potser no només t'agradava com jo et tractava.
+— Que potser no només t'agradava com jo et tractava.
 
 Ella esperà.
 
-—Potser també t'agradava qui eres tu quan estaves amb mi.
+— Potser també t'agradava qui eres tu quan estaves amb mi.
 
 Alguna cosa canvià en la cara d'ella.
 
 No fou sorpresa exactament. Més bé el gest de qui sent formulada una cosa que portava temps sabent sense haver-li posat paraules.
 
-—Això no és just.
+— Això no és just.
 
-—Per què?
+— Per què?
 
-—Perquè fa que siga més difícil.
+— Perquè fa que siga més difícil.
 
-—No era la meua intenció.
+— No era la meua intenció.
 
-—Però ho fa.
+— Però ho fa.
 
-—Ho sé.
+— Ho sé.
 
 Ella es passà una mà pels cabells.
 
-—Jo només vull que tot torne a estar bé.
+— Jo només vull que tot torne a estar bé.
 
-—Pot tornar a estar bé.
+— Pot tornar a estar bé.
 
 —No sembla que ho cregues.
 
