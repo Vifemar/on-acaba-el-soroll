@@ -834,7 +834,7 @@ Va fer dos passos i es detingué.
 
 Ell la mirà.
 
-— Encara que faça mal?
+— Encara que faça mal
 
 Ell assentí.
 
