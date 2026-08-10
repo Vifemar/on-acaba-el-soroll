@@ -424,81 +424,81 @@ Ella no digué res.
 
 — Però.
 
-—Però no necessites convertir el que ha passat en un error perquè la decisió siga correcta.
+— Però no necessites convertir el que ha passat en un error perquè la decisió siga correcta.
 
 Ella es quedà mirant-lo.
 
-—No necessites pensar que estava malament sentir-te bé.
+— No necessites pensar que estava malament sentir-te bé.
 
 Silenci.
 
-—Ni que estava malament sentir-te vista. Ni que eres una altra persona. Ni que tot açò era una espècie de bogeria que ara toca corregir i oblidar.
+— Ni que estava malament sentir-te vista. Ni que eres una altra persona. Ni que tot açò era una espècie de bogeria que ara toca corregir i oblidar.
 
 Ella mirà cap al carrer.
 
-—És més fàcil així.
+— És més fàcil així.
 
-—Ja.
+— Ja.
 
-—Si pense que no devia haver passat...
+— Si pense que no devia haver passat...
 
-—Ho sé.
+— Ho sé.
 
-—...és més fàcil deixar-ho arrere.
+— ...és més fàcil deixar-ho arrere.
 
-—Segurament.
+— Segurament.
 
-—Aleshores?
+— Aleshores?
 
 Ell va arronsar els muscles.
 
-—Que potser el més fàcil i el més verdader no són sempre la mateixa cosa.
+— Que potser el més fàcil i el més verdader no són sempre la mateixa cosa.
 
 Ella deixà escapar l'aire lentament.
 
-—No sé què vols que faça amb tot això.
+— No sé què vols que faça amb tot això.
 
-—Res.
+— Res.
 
-—Alguna cosa voldràs.
+— Alguna cosa voldràs.
 
-—No.
+— No.
 
 Ell la mirà amb una tendresa que ella va haver d'esquivar.
 
-—No et demane que em tries.
+— No et demane que em tries.
 
 Ella apretà els llavis.
 
-—Ni que canvies la teua vida. Ni que convertisques el que hem tingut en una història que necessàriament havia d'arribar a algun lloc.
+— Ni que canvies la teua vida. Ni que convertisques el que hem tingut en una història que necessàriament havia d'arribar a algun lloc.
 
-—Llavors què?
+— Llavors què?
 
-—Que no et negues el que has sentit només perquè has decidit no continuar sentint-ho amb mi.
+— Que no et negues el que has sentit només perquè has decidit no continuar sentint-ho amb mi.
 
 Ella va quedar-se immòbil.
 
 Una parella passà caminant per davant de la terrassa. Algú va riure a l'altre costat del carrer. El món tenia aquella crueltat involuntària de continuar funcionant quan dues persones estaven intentant entendre alguna cosa que, per a elles, ho ocupava tot.
 
-—Potser sí que estic fugint —digué ella finalment.
+— Potser sí que estic fugint —digué ella finalment.
 
-—No necessàriament.
+— No necessàriament.
 
-—Abans has dit...
+— Abans has dit...
 
-—He dit que evitar redueix el dolor. I és veritat. Però posar distància també pot ser una decisió coherent. No tot el que s'abandona s'abandona per covardia.
+— He dit que evitar redueix el dolor. I és veritat. Però posar distància també pot ser una decisió coherent. No tot el que s'abandona s'abandona per covardia.
 
 Ella jugà amb la vora de la tassa.
 
-—¿I com sé la diferència?
+— I com sé la diferència?
 
 Ell pensà.
 
-—No ho sé.
+— No ho sé.
 
-—Fantàstic.
+— Fantàstic.
 
-—Ja t'he dit que pense moltes coses, no que tinga respostes.
+— Ja t'he dit que pense moltes coses, no que tinga respostes.
 
 Ella rigué.
 
