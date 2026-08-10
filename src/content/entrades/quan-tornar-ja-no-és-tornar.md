@@ -298,19 +298,19 @@ Ella es passà una mà pels cabells.
 
 — Pot tornar a estar bé.
 
-—No sembla que ho cregues.
+— No sembla que ho cregues.
 
-—Sí que ho crec. El que no sé és si «estar bé» significa necessàriament tornar a ser exactament qui eres abans.
+— Sí que ho crec. El que no sé és si «estar bé» significa necessàriament tornar a ser exactament qui eres abans.
 
 Ella el mirà.
 
-—Abans estava bé.
+— Abans estava bé.
 
-—No he dit que no.
+— No he dit que no.
 
-—Ho sembla.
+— Ho sembla.
 
-—No. I tampoc pense que jo haja vingut a salvar-te de res. Déu me'n guard.
+— No. I tampoc pense que jo haja vingut a salvar-te de res. Déu me'n guard.
 
 Ella somrigué de nou.
 
