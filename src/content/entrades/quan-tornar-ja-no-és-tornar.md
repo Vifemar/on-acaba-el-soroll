@@ -274,7 +274,7 @@ Ell pensà abans de respondre.
 
 Ella esperà.
 
-— Potser també t'agradava qui eres tu quan estaves amb mi.
+— Potser també t'agradava qui eres tu quan estàs amb mi.
 
 Alguna cosa canvià en la cara d'ella.
 
