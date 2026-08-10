@@ -708,11 +708,7 @@ Ell tardà una fracció de segon massa a contestar.
 
 — Sí.
 
-Ella ho va notar.
-
-Naturalment que ho va notar.
-
-Però aquesta vegada no digué res.
+Ella ho va notar. Naturalment que ho va notar. Però aquesta vegada no digué res.
 
 —Potser això és el que em fa més por —continuà—. Que no sé si podré.
 
