@@ -798,13 +798,13 @@ Cap dels dos es mogué.
 
 — He dit que me n'he d'anar i continuem asseguts.
 
-—Tècnicament no has especificat quan.
+— Tècnicament no has especificat quan.
 
 Ella somrigué.
 
-—Ara.
+— Ara.
 
-—Ah.
+— Ah.
 
 Ell s'alçà.
 
@@ -826,39 +826,39 @@ Ella tampoc.
 
 Va fer dos passos i es detingué.
 
-—Una cosa.
+— Una cosa.
 
-—Què?
+— Què?
 
-—No pense que haja sigut un error.
+— No pense que haja sigut un error.
 
 Ell la mirà.
 
-—Encara que faça mal.
+— Encara que faça mal?
 
 Ell assentí.
 
 Ella continuà caminant.
 
-—Ei —la cridà.
+— Ei! —la cridà.
 
 Ella es girà.
 
 Ell dubtà.
 
-—Cuida-la.
+— Cuida-la.
 
-—A qui?
+— A qui?
 
 Ell somrigué.
 
-—A eixa dona.
+— A eixa dona.
 
 Ella el mirà durant uns segons.
 
 Després va somriure d'aquella manera que ell havia dit que era diferent.
 
-—Ho intentaré.
+— Ho intentaré.
 
 I se n'anà.
 
@@ -866,13 +866,7 @@ Ell es quedà mirant-la fins que desaparegué carrer avall.
 
 No sabia si tornarien a parlar. No sabia si la distància acabaria convertint-los en dos records amables o si, al cap d'un temps, trobarien alguna forma nova d'existir en la vida de l'altre. Tampoc sabia si ella arribaria a casa convençuda de la decisió o ploraria al primer semàfor.
 
-Però començava a entendre que aquella no era la pregunta important.
-
-Potser algunes persones no arriben a la nostra vida per quedar-s'hi.
-
-Potser tampoc arriben per salvar-nos, completar-nos ni demostrar-nos que la vida que teníem era equivocada.
-
-De vegades fan una cosa molt més senzilla i molt més irreversible.
+Però començava a entendre que aquella no era la pregunta important. Potser algunes persones no arriben a la nostra vida per quedar-s'hi. Potser tampoc arriben per salvar-nos, completar-nos ni demostrar-nos que la vida que teníem era equivocada. De vegades fan una cosa molt més senzilla i molt més irreversible.
 
 Encenen el llum.
 
