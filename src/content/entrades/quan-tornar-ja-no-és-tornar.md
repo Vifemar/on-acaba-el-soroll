@@ -314,39 +314,39 @@ Ella el mirà.
 
 Ella somrigué de nou.
 
-—Menys mal.
+— Menys mal.
 
-—Seria insuportable.
+— Seria insuportable.
 
-—Molt.
+— Molt.
 
-—Però potser...
+— Però potser...
 
 Es detingué.
 
-—Què?
+— Què?
 
-—Potser jo no he creat res.
+— Potser jo no he creat res.
 
-—No?
+— No?
 
-—Potser només he encés el llum.
+— Potser només he encés el llum.
 
 Ella no va respondre.
 
-—La tendresa que t'agradava ja era una necessitat teua. Les ganes de sentir-te valorada no les vaig inventar jo. La dona que es reia de les meues estupideses ja existia. La que esperava un missatge. La que es deixava dir coses boniques encara que després no sabera què fer amb elles. La que descobria que podia agradar-li molt que algú tinguera curiositat per ella...
+— La tendresa que t'agradava ja era una necessitat teua. Les ganes de sentir-te valorada no les vaig inventar jo. La dona que es reia de les meues estupideses ja existia. La que esperava un missatge. La que es deixava dir coses boniques encara que després no sabera què fer amb elles. La que descobria que podia agradar-li molt que algú tinguera curiositat per ella...
 
-—Para.
+— Para.
 
 Ell parà.
 
 Ella tenia els ulls humits, però no plorava.
 
-—Això és precisament el que no vull sentir ara.
+— Això és precisament el que no vull escoltar ara.
 
 Ell assentí.
 
-—D'acord.
+— D'acord.
 
 Passaren uns segons.
 
