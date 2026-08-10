@@ -96,67 +96,203 @@ const formatData = (data) =>
 
 </Layout>
 <script>
-    import { handleAuthCallback } from "@netlify/identity";
+    import {
+        handleAuthCallback,
+        updateUser
+    } from "@netlify/identity";
 
     async function processarIdentity() {
         const hash = window.location.hash;
 
-        if (
-            !hash.includes("recovery_token") &&
-            !hash.includes("invite_token") &&
-            !hash.includes("confirmation_token")
-        ) {
+        if (!hash.includes("recovery_token")) {
             return;
         }
 
         try {
             const resultat = await handleAuthCallback();
 
-            console.log("Identity callback:", resultat);
-
-            if (resultat) {
-                document.body.insertAdjacentHTML(
-                    "afterbegin",
-                    `
-                    <div id="identity-missatge" style="
-                        position: fixed;
-                        top: 20px;
-                        left: 50%;
-                        transform: translateX(-50%);
-                        z-index: 99999;
-                        background: #f4f0e8;
-                        border: 1px solid #cfc8bc;
-                        padding: 18px 25px;
-                        font-family: Georgia, serif;
-                        box-shadow: 0 4px 20px rgba(0,0,0,.12);
-                    ">
-                        Accés verificat correctament.
-                    </div>
-                    `
-                );
+            if (!resultat || resultat.type !== "recovery") {
+                return;
             }
-
-        } catch (error) {
-            console.error("Error Identity:", error);
 
             document.body.insertAdjacentHTML(
                 "afterbegin",
                 `
-                <div style="
+                <div id="recuperacio-password" style="
                     position: fixed;
-                    top: 20px;
-                    left: 50%;
-                    transform: translateX(-50%);
+                    inset: 0;
                     z-index: 99999;
-                    background: #f4f0e8;
-                    border: 1px solid #cfc8bc;
-                    padding: 18px 25px;
-                    font-family: Georgia, serif;
+                    background: rgba(20,20,20,.55);
+
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+
+                    padding: 20px;
                 ">
-                    No s'ha pogut processar l'enllaç d'accés.
+
+                    <div style="
+                        width: min(420px, 100%);
+                        background: #f4f0e8;
+                        border: 1px solid #cfc8bc;
+                        padding: 35px;
+
+                        font-family: Georgia, serif;
+                        color: #222;
+
+                        box-shadow: 0 8px 35px rgba(0,0,0,.25);
+                    ">
+
+                        <h2 style="
+                            margin: 0 0 10px;
+                            font-weight: 400;
+                        ">
+                            Nova contrasenya
+                        </h2>
+
+                        <p id="missatge-password" style="
+                            margin-bottom: 25px;
+                            color: #666;
+                        ">
+                            Escriu la contrasenya que utilitzaràs per entrar al panell.
+                        </p>
+
+                        <label
+                            for="nova-password"
+                            style="display:block; margin-bottom:6px;"
+                        >
+                            Contrasenya
+                        </label>
+
+                        <input
+                            id="nova-password"
+                            type="password"
+                            autocomplete="new-password"
+                            style="
+                                box-sizing: border-box;
+                                width: 100%;
+                                padding: 12px;
+                                margin-bottom: 18px;
+
+                                border: 1px solid #bbb;
+                                background: #fff;
+                                font-size: 1rem;
+                            "
+                        />
+
+                        <label
+                            for="repetir-password"
+                            style="display:block; margin-bottom:6px;"
+                        >
+                            Repetix la contrasenya
+                        </label>
+
+                        <input
+                            id="repetir-password"
+                            type="password"
+                            autocomplete="new-password"
+                            style="
+                                box-sizing: border-box;
+                                width: 100%;
+                                padding: 12px;
+                                margin-bottom: 22px;
+
+                                border: 1px solid #bbb;
+                                background: #fff;
+                                font-size: 1rem;
+                            "
+                        />
+
+                        <button
+                            id="guardar-password"
+                            type="button"
+                            style="
+                                width: 100%;
+                                padding: 12px 18px;
+
+                                border: 0;
+                                background: #222;
+                                color: #fff;
+
+                                cursor: pointer;
+                                font-size: .9rem;
+                            "
+                        >
+                            Guardar contrasenya
+                        </button>
+
+                    </div>
+
                 </div>
                 `
             );
+
+            const boto =
+                document.getElementById("guardar-password");
+
+            const missatge =
+                document.getElementById("missatge-password");
+
+            boto?.addEventListener("click", async () => {
+
+                const password =
+                    document.getElementById("nova-password")?.value || "";
+
+                const repetir =
+                    document.getElementById("repetir-password")?.value || "";
+
+                if (password.length < 8) {
+                    missatge.textContent =
+                        "La contrasenya ha de tindre almenys 8 caràcters.";
+                    return;
+                }
+
+                if (password !== repetir) {
+                    missatge.textContent =
+                        "Les dues contrasenyes no coincidixen.";
+                    return;
+                }
+
+                boto.disabled = true;
+                boto.textContent = "Guardant...";
+
+                try {
+
+                    await updateUser({
+                        password
+                    });
+
+                    missatge.textContent =
+                        "Contrasenya guardada correctament.";
+
+                    window.history.replaceState(
+                        {},
+                        document.title,
+                        window.location.pathname
+                    );
+
+                    setTimeout(() => {
+                        window.location.href = "/admin/";
+                    }, 1000);
+
+                } catch (error) {
+
+                    console.error(error);
+
+                    missatge.textContent =
+                        "No s'ha pogut guardar la contrasenya.";
+
+                    boto.disabled = false;
+                    boto.textContent = "Guardar contrasenya";
+
+                }
+
+            });
+
+        } catch (error) {
+
+            console.error("Error Identity:", error);
+
         }
     }
 
