@@ -95,3 +95,70 @@ const formatData = (data) =>
     </main>
 
 </Layout>
+<script>
+    import { handleAuthCallback } from "@netlify/identity";
+
+    async function processarIdentity() {
+        const hash = window.location.hash;
+
+        if (
+            !hash.includes("recovery_token") &&
+            !hash.includes("invite_token") &&
+            !hash.includes("confirmation_token")
+        ) {
+            return;
+        }
+
+        try {
+            const resultat = await handleAuthCallback();
+
+            console.log("Identity callback:", resultat);
+
+            if (resultat) {
+                document.body.insertAdjacentHTML(
+                    "afterbegin",
+                    `
+                    <div id="identity-missatge" style="
+                        position: fixed;
+                        top: 20px;
+                        left: 50%;
+                        transform: translateX(-50%);
+                        z-index: 99999;
+                        background: #f4f0e8;
+                        border: 1px solid #cfc8bc;
+                        padding: 18px 25px;
+                        font-family: Georgia, serif;
+                        box-shadow: 0 4px 20px rgba(0,0,0,.12);
+                    ">
+                        Accés verificat correctament.
+                    </div>
+                    `
+                );
+            }
+
+        } catch (error) {
+            console.error("Error Identity:", error);
+
+            document.body.insertAdjacentHTML(
+                "afterbegin",
+                `
+                <div style="
+                    position: fixed;
+                    top: 20px;
+                    left: 50%;
+                    transform: translateX(-50%);
+                    z-index: 99999;
+                    background: #f4f0e8;
+                    border: 1px solid #cfc8bc;
+                    padding: 18px 25px;
+                    font-family: Georgia, serif;
+                ">
+                    No s'ha pogut processar l'enllaç d'accés.
+                </div>
+                `
+            );
+        }
+    }
+
+    processarIdentity();
+</script>

@@ -7,12 +7,50 @@
 
     <title>On acaba el soroll · Administració</title>
 
+    <link rel="icon" href="/favicon.ico" />
+
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+    <style>
+        body {
+            background: #f4f0e8;
+        }
+
+        .cms-logo {
+            position: fixed;
+            top: 18px;
+            left: 22px;
+            z-index: 9999;
+
+            display: flex;
+            align-items: center;
+            gap: 10px;
+
+            font-family: Georgia, serif;
+            color: #222;
+        }
+
+        .cms-logo img {
+            width: 34px;
+            height: 34px;
+            object-fit: contain;
+        }
+
+        .cms-logo span {
+            font-size: 1rem;
+        }
+    </style>
 </head>
 
 <body>
 
+    <div class="cms-logo">
+        <img src="/lluna-logo.png" alt="" />
+        <span>On acaba el soroll</span>
+    </div>
+
     <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+    <script src="/admin/preview.js"></script>
 
 </body>
 </html>

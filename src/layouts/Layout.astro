@@ -174,32 +174,27 @@ const {
     <!-- Gestió de Netlify Identity -->
 
     <script is:inline>
-        if (window.netlifyIdentity) {
+    if (window.netlifyIdentity) {
 
-            window.netlifyIdentity.on("init", () => {
+        window.netlifyIdentity.on("init", () => {
 
-                const hash = window.location.hash;
+            const hash = window.location.hash;
 
-                if (hash.includes("recovery_token")) {
-                    window.location.href = "/recuperar/" + hash;
-                    return;
-                }
+            if (
+                hash.includes("invite_token") ||
+                hash.includes("confirmation_token")
+            ) {
+                window.netlifyIdentity.open();
+            }
 
-                if (
-                    hash.includes("invite_token") ||
-                    hash.includes("confirmation_token")
-                ) {
-                    window.netlifyIdentity.open();
-                }
+        });
 
-            });
+        window.netlifyIdentity.on("login", () => {
+            window.location.href = "/admin/";
+        });
 
-            window.netlifyIdentity.on("login", () => {
-                window.location.href = "/admin/";
-            });
-
-        }
-    </script>
+    }
+</script>
 
 </body>
 

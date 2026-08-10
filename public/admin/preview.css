@@ -1,0 +1,95 @@
+body {
+    margin: 0;
+    background: #f4f1eb;
+    color: #242321;
+
+    font-family: Georgia, "Times New Roman", serif;
+}
+
+.preview-entrada {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 80px 35px 120px;
+}
+
+.preview-categoria {
+    margin-bottom: 22px;
+
+    text-align: center;
+
+    font-family: Arial, sans-serif;
+    font-size: 0.65rem;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+
+    color: #888;
+}
+
+.preview-titol {
+    margin: 0 0 25px;
+
+    text-align: center;
+
+    font-size: 3.2rem;
+    font-weight: 400;
+    line-height: 1.1;
+}
+
+.preview-descripcio {
+    max-width: 650px;
+    margin: 0 auto 25px;
+
+    text-align: center;
+
+    font-size: 1.25rem;
+    font-style: italic;
+    line-height: 1.5;
+
+    color: #777;
+}
+
+.preview-data {
+    margin-bottom: 70px;
+
+    text-align: center;
+
+    font-family: Arial, sans-serif;
+    font-size: 0.7rem;
+
+    color: #999;
+}
+
+.preview-cos {
+    font-size: 1.1rem;
+    line-height: 1.85;
+}
+
+.preview-cos p {
+    margin: 0 0 1.5em;
+}
+
+.preview-cos blockquote {
+    margin: 2.5em 0;
+    padding-left: 25px;
+
+    border-left: 1px solid #aaa;
+
+    font-style: italic;
+}
+
+.preview-cos img {
+    display: block;
+
+    max-width: 100%;
+    height: auto;
+
+    margin: 45px auto;
+}
+
+.preview-cos strong {
+    font-weight: 600;
+}
+
+.preview-cos em {
+    font-style: italic;
+}
