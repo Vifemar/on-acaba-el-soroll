@@ -104,16 +104,23 @@ const formatData = (data) =>
     async function processarIdentity() {
         const hash = window.location.hash;
 
-        if (!hash.includes("recovery_token")) {
-            return;
-        }
+        if (
+    !hash.includes("recovery_token") &&
+    !hash.includes("invite_token") &&
+    !hash.includes("confirmation_token")
+) {
+    return;
+}
 
         try {
             const resultat = await handleAuthCallback();
 
-            if (!resultat || resultat.type !== "recovery") {
-                return;
-            }
+            if (
+    		!resultat ||
+   			 !["recovery", "invite", "confirmation"].includes(resultat.type)
+			) {
+    return;
+}
 
             document.body.insertAdjacentHTML(
                 "afterbegin",
