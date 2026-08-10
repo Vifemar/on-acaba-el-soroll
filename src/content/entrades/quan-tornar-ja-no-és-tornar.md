@@ -596,35 +596,33 @@ Va alçar els ulls.
 
 Ell somrigué.
 
-—Ho eres abans de conéixer-me.
+— Ho eres abans de conéixer-me.
 
-—Ja ho sé.
+— Ja ho sé.
 
-—Bé. No estava segur.
+— Bé. No estava segur.
 
-—Idiota.
+— Idiota.
 
-—Perdó.
+— Perdó.
 
 Ella tornà a mirar la tassa.
 
-—I il·lusionar-me. Jugar. Riure. Esperar un missatge com una adolescent imbècil...
+— I il·lusionar-me. Jugar. Riure. Esperar un missatge com una adolescent imbècil...
 
-—Això últim era especialment preocupant.
+— Això últim era especialment preocupant.
 
 Ella rigué entre llàgrimes.
 
-—Eres imbècil.
+— Eres imbècil.
 
-—Sí.
+— De vegades un poc
 
-—Molt.
-
-—També.
+— Molt.
 
 Ella es va eixugar discretament una llàgrima amb el dit.
 
-—Potser hi havia una versió de mi que feia molt de temps que no habitava.
+— Potser hi havia una versió de mi que feia molt de temps que no habitava.
 
 Ell deixà de somriure.
 
