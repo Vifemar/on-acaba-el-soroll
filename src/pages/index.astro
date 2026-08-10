@@ -96,8 +96,10 @@ const formatData = (data) =>
 
 </Layout>
 <script>
+    <script>
     import {
         handleAuthCallback,
+        acceptInvite,
         updateUser
     } from "@netlify/identity";
 
@@ -114,7 +116,8 @@ const formatData = (data) =>
 
         try {
             const resultat = await handleAuthCallback();
-
+			const tipus = resultat?.type;
+			const inviteToken = resultat?.token;
             if (
     		!resultat ||
    			 !["recovery", "invite", "confirmation"].includes(resultat.type)
@@ -265,9 +268,21 @@ const formatData = (data) =>
 
                 try {
 
-                    await updateUser({
-                        password
-                    });
+                   if (tipus === "invite") {
+
+    				await acceptInvite(inviteToken, password);
+
+					} else if (tipus === "recovery") {
+
+  				  await updateUser({
+   			     password
+  				  });
+
+				} else {
+
+   				 throw new Error("Tipus de callback no compatible");
+
+}
 
                     missatge.textContent =
                         "Contrasenya guardada correctament.";
