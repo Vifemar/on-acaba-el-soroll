@@ -628,11 +628,11 @@ Ell deixà de somriure.
 
 No perquè la frase fora trista, sinó perquè havia arribat a algun lloc.
 
-—Potser —digué.
+— Potser —digué.
 
 Ella el mirà.
 
-—¿I ara què faig amb ella?
+— I ara què faig amb ella?
 
 Ell va respirar profundament.
 
