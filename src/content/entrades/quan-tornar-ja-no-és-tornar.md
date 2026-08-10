@@ -646,67 +646,67 @@ Però totes aquelles respostes haurien tingut massa d'ell.
 
 I aquella pregunta, finalment, ja no parlava d'ell.
 
-—No ho sé —digué.
+— No ho sé —digué.
 
 Ella va abaixar els ulls.
 
-—Però crec que aquesta és la pregunta.
+— Però crec que aquesta és la pregunta.
 
-—Quina?
+— Quina?
 
 Ell esperà fins que ella tornà a mirar-lo.
 
-—Què fas ara amb la dona que has descobert que també eres.
+— Què fas ara amb la dona que has descobert que també eres.
 
 Ella es quedà completament quieta.
 
-—No què fas amb mi —continuà ell—. Això ja ho has decidit.
+— No què fas amb mi —continuà ell—. Això ja ho has decidit.
 
 Ella va fer un gest dolorós.
 
-—No ho digues així.
+— No ho digues així.
 
-—Està bé. De veres.
+— Està bé. De veres.
 
 La llum havia baixat molt. Algú encengué els fanals de la terrassa i, durant un segon, tots dos miraren cap amunt, com si agraïren qualsevol excusa per deixar de mirar-se.
 
-—Ni tan sols què fas amb el que sents per mi —afegí ell—. Això també passarà. O canviarà. O acabarà ocupant un lloc que ara no podem imaginar.
+— Ni tan sols què fas amb el que sents per mi —afegí ell—. Això també passarà. O canviarà. O acabarà ocupant un lloc que ara no podem imaginar.
 
-—¿I aleshores?
+— I aleshores?
 
-—Què fas amb tu ara que saps això de tu.
+— Què fas amb tu ara que saps això de tu.
 
 Ella va quedar-se pensant.
 
-—És una pregunta horrible.
+— És una pregunta horrible.
 
-—Sí.
+— Sí.
 
-—Preferia quan el problema eres tu.
+— Preferia quan el problema eres tu.
 
 Ell rigué.
 
-—Jo també. Era molt més senzill eliminar-me.
+— Jo també. Era molt més senzill eliminar-me.
 
 Ella li pegà una puntada suau per davall de la taula.
 
-—No faces bromes amb això.
+— No faces bromes amb això.
 
-—Perdó.
+— Perdó.
 
 Però ella encara somreia.
 
 Passaren uns segons.
 
-—Podria tornar a la meua vida —digué— i intentar donar-li un lloc a aquesta part de mi.
+— Podria tornar a la meua vida —digué— i intentar donar-li un lloc a aquesta part de mi.
 
-—Sí.
+— Sí.
 
-—Sense tu.
+— Sense tu.
 
 Ell tardà una fracció de segon massa a contestar.
 
-—Sí.
+— Sí.
 
 Ella ho va notar.
 
