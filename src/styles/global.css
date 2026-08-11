@@ -386,7 +386,8 @@ footer {
         font-size: 0.62rem;
         letter-spacing: 1px;
     }
-        .sobre-mi {
+    
+    .sobre-mi {
         padding: 55px 22px 80px;
     }
 
@@ -424,7 +425,8 @@ footer {
     .cos-entrada {
         font-size: 1.08rem;
     }
- .marca {
+
+    .marca {
     grid-template-columns: 70px auto 70px;
     column-gap: 10px;
 }
@@ -676,14 +678,7 @@ footer {
 .peu-entrada .etiquetes a:hover {
     color: #333;
 }
-.cos-entrada > p:first-child {
-    font-family: "Cormorant Garamond", Georgia, serif;
-    font-size: 1.55rem;
-    line-height: 1.6;
-    font-weight: 500;
-    color: #333;
-    margin-bottom: 1.6em;
-}
+
 .marca a {
     color: inherit;
     text-decoration: none;
