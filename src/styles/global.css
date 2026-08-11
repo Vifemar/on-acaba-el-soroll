@@ -104,11 +104,6 @@ article h2 {
     margin-bottom: 15px;
 }
 
-article p:first-child {
-    color: #888;
-    font-size: 0.9rem;
-}
-
 article p {
     font-size: 1.15rem;
 }
