@@ -1,0 +1,46 @@
+---
+title: No et demane que tornes
+date: 2026-09-25
+category: Absències
+description: No et demane que tornes. Només intente entendre què queda quan algú
+  se’n va però continua habitant alguns racons de nosaltres. Una entrada sobre
+  l’absència, la memòria i eixa forma estranya d’estimar que ja no espera res,
+  però encara recorda.
+---
+No et demane que tornes. No perquè haja deixat d’estimar-te, ni perquè el temps haja fet eixe treball net i ordenat que sempre li atribuïm, com si els dies saberen esborrar les coses només perquè passen. No. Et continue estimant d’una manera que ja no sé explicar sense que semble una contradicció. Potser perquè ho és. T’estime i, al mateix temps, sé que no hauríem de tornar a intentar-ho. T’estime i sé que jo no tinc allò que necessites. Potser esta és la forma més trista de perdre algú: no perquè l’amor s’haja acabat, sinó perquè un dia comprens que l’amor no sempre és suficient.
+
+Durant molt de temps vaig pensar que estimar era precisament això, arribar fins al final, insistir, quedar-se, lluitar contra qualsevol cosa que s’interposara entre dues persones. Ens ho han contat així tantes vegades que costa acceptar el contrari. Però hi ha un moment en què insistir deixa de ser una prova d’amor i comença a convertir-se en una manera d’allargar el dolor. I jo ja no vull demanar-te que et quedes en un lloc on no pots ser feliç només perquè jo sí que voldria que estigueres.
+
+Perquè jo no tinc el que busques. M’ha costat molt escriure aquesta frase sense intentar corregir-la després. Sense afegir un«encara» o un «potser», sense deixar alguna porta mig oberta perquè per ella puga entrar l’esperança. Però no hi ha cap porta. Hi ha coses que no puc donar-te. Una manera de viure, una certesa, una tranquil·litat que probablement mereixes i que al meu costat sempre hauria estat condicionada per alguna cosa. Podria prometre canvis. Podria construir-te un futur amb paraules. Podria dir-te que esta vegada seria diferent. Però sé massa bé que hi ha promeses que només existeixen mentre les diem.
+
+I seria fàcil culpar-te. Seria fàcil pensar que no vas saber esperar o que vas voler massa. També seria fàcil culpar-me a mi i passar anys buscant aquell moment exacte en què hauria pogut fer les coses d’una altra manera o que hauria estat preparat. Però no sé si hi va haver un moment així. Potser simplement vam arribar l’un a l’altre amb dues vides que podien estimar-se però no encaixar. I això costa molt més d’acceptar que una traïció o una falta d’amor, perquè no hi ha ningú contra qui enfadar-se. No hi ha cap culpable. Només dues persones que, durant un temps, van creure que voler-se molt seria suficient per salvar totes les distàncies.
+
+No et demane que tornes, encara que li hages donat la volta al meu món. Encara que hi haja llocs que abans no significaven res i ara siguen teus. Encara que de vegades escolte una cançó i continue pensant automàticament en contar-t’ho. Encara que encara hi haja moments en què em sorprenga buscant-te dins d’un dia normal, com si en qualsevol instant fores a aparéixer darrere d’una porta o al final d’un carrer. Hi ha persones que passen per la nostra vida i, quan se’n van, deixen una absència concreta. Tu no. Tu vas canviar la forma de les coses.
+
+I això és el que fa més difícil deixar-te anar. No perdre’t, sinó haver de continuar vivint en un món que tu has modificat, que no té significat sense tu. Tornar als mateixos carrers i descobrir que ja no són els mateixos. Tornar a les mateixes coses i adonar-me que ara contenen un record. Aprendre que fins i tot una casa pot recordar algú. Que un llit pot recordar. Que una hora determinada del dia pot recordar. Que el costé una memòria molt més lenta que la raó i continua esperant coses que la raó ja sap que no arribaran.
+
+Però també això passarà. No sé quan. No sé de quina manera. Potser no desapareixerà mai del tot. Potser simplement aprendré a conviure amb el lloc que ocupes. Arribarà un moment en què podré pensar en tu sense sentir que alguna cosa es desplaça dins de mi. I em fa mal escriure-ho perquè, en el fons, una part de mi encara voldria que no passara. Hi ha una estranya lleialtat en continuar patint per algú, com si deixar de fer-ho fora una última traïció. Com si guarir significara admetre que aquella història ja no importa.
+
+Però importarà. Importarà encara que deixe de fer mal. Importarà perquè va existir. Perquè ens vam trobar. Entre tota la gent que podria haver passat per la nostra vida, vam coincidir nosaltres. Durant un temps vam ocupar el mateix lloc del món i ens vam mirar d’una manera que probablement no tornarem a mirar ningú. I potser això hauria de ser prou. Potser la nostra equivocació va ser pensar que totes les coses importants han de durar.
+
+Un dia, inevitablement, tornarem a estar envoltats de gent. Tu caminaràs per una ciutat i jo per una altra. Potser fins i tot seràla mateixa. Una estació, una plaça, una terrassa qualsevol. Centenars de persones aniran d’un lloc a un altre preocupades perles seues vides, pels seus horaris, per qualsevol cosa petita que aquell dia els semble urgent. I és possible que tu estigues a uns metres de mi. Potser jo estaré parlant amb algú. Potser tu estaràs entrat a una tenda amb el teu vesit blanc. I no ens veurem.
+
+He pensat moltes vegades en això. En el moment en què dues persones que van arribar a saber-se de memòria, ànimes bessones connectades fins el racó més profund del cos, poden tornar a convertir-se en dos desconeguts entre la multitud. En com algú pot haver conegut la teua por, els teus silencis, la manera exacta en què respires quan estàs a punt de dormir, i acabar passant al teu costat sense que cap dels dos ho sàpia. Em sembla una de les coses més terribles que fa el temps.
+
+Però probablement serà així. El món continuarà. És el que sempre fa.
+
+No s’aturarà perquè nosaltres no hàgem sabut trobar una manera de quedar-nos. Continuaran obrint els bars, canviaran les estacions, algú ocuparà les cases que nosaltres vam conéixer,naixeran persones que no sabran res de nosaltres i moriran altres que tampoc no sabran que alguna vegada vam existir. Les coses que ara em semblen enormes acabaran reduïdes a una història que només recordarem tu i jo, i potser arribarà un dia en què ni tan sols la recordarem igual. I quan marxem del món, potser, maleïrem haver-nos equivocat perquè és en eixe moment quan es troba a faltar deveres, quan ja no queda temps per canviar-ho. I tot i això, no et demane que tornes.
+
+Tot se’n va. Esta és l’única certesa que he aprés de veritat. Se’n van les persones. Se’n van les ciutats que vam conéixer. Se’n van els cossos que vam tindre. Se’n van les promeses, les fotografies, les veus. Se’n va fins i tot la versió de nosaltres mateixos que va viure tot allò. I per molt que intentem retenir alguna cosa, al final només aconseguim retardar un poc el moment en què desapareix.
+
+Potser per això no et demane que tornes. Perquè tornar seria voler retenir alguna cosa que ja ha acabat. I nosaltres mereixem almenys això: no convertir el que vam tindre en una successió infinita d’intents per recuperar-lo. Vull recordar-nos abans de trencar-ho del tot. Quan encara érem capaços de creure que el món podia cabre entre dues persones. Quan encara no coneixíem el final. Quan mirar-te no significava pensar en tot allò que algun dia perdria.
+
+No et demane que tornes. No em deus eixa tornada. No em deus cap altra oportunitat. No em deus quedar-te en una vida que no és la que vols. I jo hauré d’aprendre a estimar-te també així: sense tindre’t.
+
+Supose que un dia entendré que deixar-te anar no significava voler-te menys. Potser significava haver arribat finalment a comprendre què necessitaves, encara que allò que necessitares fora una vida on jo ja no estiguera.
+
+Fins que arribe eixe dia, em quedarà esta tristesa estranya i tranquil·la. Esta manera de mirar arrere sense voler tornar. Esta certesa que, si poguera començar de nou sabent exactament com acabaria, probablement tornaria a entrar allí on et vaig parlar amb tu per primera vegada, tornaria a mirar-te de la mateixa manera i tornaria a deixar que li donares la volta al meu món.
+
+Perquè també hi ha coses que, encara sabent que les perdrem, hauríem tornat a viure. Tu eres una d’elles. Però no tornes. Deixa que un dia siguem només això: dues persones que es vanestimar molt i no van poder quedar-se. Deixa que la multitud faça la resta. Que ens separe. Que ens esborre a poc a poc. Que algun dia passem l’un al costat de l’altre sense reconéixer-nos. 
+
+I que el món continue, com sempre continua, sense saber que una vegada, enmig de tota aquella gent, tu i jo ja ens havíem trobat.
