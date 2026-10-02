@@ -119,7 +119,20 @@ collections:
         widget: "text"
         required: false
         hint: "Una frase breu que vulgues destacar quan compartisques l'entrada."
+      
+      - label: "Versió sonora"
+        name: "audio"
+        widget: "file"
+        required: false
+        choose_url: false
+        hint: "Opcional. Puja l'MP3 amb la lectura d'aquesta entrada."
 
+      - label: "Duració de l'àudio"
+        name: "audioDuration"
+        widget: "string"
+        required: false
+        hint: "Opcional. Per exemple: 4:32"
+        
       - label: "Text"
         name: "body"
         widget: "markdown"

@@ -1111,3 +1111,29 @@ footer {
         font-size: 1.8rem;
     }
 }
+/* =========================================================
+   ÀUDIO ASSOCIAT A LES ENTRADES
+   ========================================================= */
+
+.audio-entrada {
+    margin-top: 38px;
+    padding-top: 24px;
+    border-top: 1px solid #ddd;
+}
+
+.audio-etiqueta {
+    margin: 0 0 14px;
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 0.68rem;
+    line-height: 1.4;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #888;
+}
+
+.audio-entrada audio {
+    display: block;
+    width: 100%;
+    max-width: 560px;
+    height: 40px;
+}

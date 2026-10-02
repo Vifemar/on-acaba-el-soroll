@@ -49,9 +49,27 @@ const data = entrada.data.date.toLocaleDateString("ca-ES", {
                     {data}
                 </p>
 
-                <p class="entradeta">
+                                <p class="entradeta">
                     {entrada.data.description}
                 </p>
+
+                {entrada.data.audio && (
+                    <div class="audio-entrada">
+
+                        <p class="audio-etiqueta">
+                            ESCOLTAR AQUEST TEXT
+                            {entrada.data.audioDuration && (
+                                <> · {entrada.data.audioDuration}</>
+                            )}
+                        </p>
+
+                        <audio controls preload="metadata">
+                            <source src={entrada.data.audio} />
+                            El teu navegador no permet reproduir aquest àudio.
+                        </audio>
+
+                    </div>
+                )}
 
             </header>
 

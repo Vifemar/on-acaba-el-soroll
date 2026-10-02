@@ -25,9 +25,10 @@ const entrades = defineCollection({
         tags: z.array(z.string()).default([]),
 
         description: z.string(),
-        image: z.string().optional(),
-        story_text: z.string().optional()
-    })
+image: z.string().optional(),
+story_text: z.string().optional(),
+audio: z.string().optional(),
+audioDuration: z.string().optional()
 });
 
 const pagines = defineCollection({

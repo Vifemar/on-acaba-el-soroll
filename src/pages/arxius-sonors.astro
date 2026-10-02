@@ -2,8 +2,40 @@
 import { getCollection } from "astro:content";
 import Layout from "../layouts/Layout.astro";
 
-const arxius = (await getCollection("arxiusSonors"))
-    .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+/* Peces creades directament com a arxius sonors */
+const pecesSonores = await getCollection("arxiusSonors");
+
+/* Entrades del blog que tenen una versió sonora */
+const entrades = await getCollection("entrades");
+
+const entradesSonores = entrades
+    .filter((entrada) => entrada.data.audio)
+    .map((entrada) => ({
+        tipus: "entrada" as const,
+        title: entrada.data.title,
+        date: entrada.data.date,
+        description: entrada.data.description,
+        audio: entrada.data.audio!,
+        duration: entrada.data.audioDuration,
+        url: `/entrades/${entrada.id}/`
+    }));
+
+/* Arxius sonors independents */
+const arxiusIndependents = pecesSonores.map((arxiu) => ({
+    tipus: "arxiu" as const,
+    title: arxiu.data.title,
+    date: arxiu.data.date,
+    description: arxiu.data.description,
+    audio: arxiu.data.audio,
+    duration: arxiu.data.duration,
+    url: arxiu.data.relatedEntry || undefined
+}));
+
+/* Unim les dues fonts i les ordenem per data */
+const arxius = [
+    ...entradesSonores,
+    ...arxiusIndependents
+].sort((a, b) => b.date.getTime() - a.date.getTime());
 
 const formatData = (data: Date) =>
     data.toLocaleDateString("ca-ES", {
@@ -51,22 +83,38 @@ const formatData = (data: Date) =>
                         <div class="contingut-sonor">
 
                             <p class="data-sonora">
-                                {formatData(arxiu.data.date)}
-                                {arxiu.data.duration &&
-                                    <> · {arxiu.data.duration}</>
-                                }
+                                {formatData(arxiu.date)}
+                                {arxiu.duration && (
+                                    <> · {arxiu.duration}</>
+                                )}
                             </p>
 
-                            <h2>{arxiu.data.title}</h2>
+                            <h2>
+                                {arxiu.url ? (
+                                    <a href={arxiu.url}>
+                                        {arxiu.title}
+                                    </a>
+                                ) : (
+                                    arxiu.title
+                                )}
+                            </h2>
 
                             <p class="descripcio-sonora">
-                                {arxiu.data.description}
+                                {arxiu.description}
                             </p>
 
                             <audio controls preload="metadata">
-                                <source src={arxiu.data.audio} />
+                                <source src={arxiu.audio} />
                                 El teu navegador no permet reproduir aquest àudio.
                             </audio>
+
+                            {arxiu.tipus === "entrada" && (
+                                <p class="enllac-text">
+                                    <a href={arxiu.url}>
+                                        Llegir el text →
+                                    </a>
+                                </p>
+                            )}
 
                         </div>
 
