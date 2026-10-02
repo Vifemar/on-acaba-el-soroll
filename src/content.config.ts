@@ -42,7 +42,24 @@ const pagines = defineCollection({
     })
 });
 
+const arxiusSonors = defineCollection({
+    loader: glob({
+        pattern: "**/*.md",
+        base: "./src/content/arxius-sonors"
+    }),
+
+    schema: z.object({
+        title: z.string(),
+        date: z.coerce.date(),
+        description: z.string(),
+        audio: z.string(),
+        duration: z.string().optional(),
+        relatedEntry: z.string().optional()
+    })
+});
+
 export const collections = {
     entrades,
-    pagines
+    pagines,
+    arxiusSonors
 };

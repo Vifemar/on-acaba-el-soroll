@@ -125,3 +125,62 @@ collections:
         modes:
           - "rich_text"
           - "raw"
+            - name: "arxius-sonors"
+    label: "Arxius sonors"
+    label_singular: "Arxiu sonor"
+
+    folder: "src/content/arxius-sonors"
+    create: true
+
+    extension: "md"
+    format: "frontmatter"
+
+    slug: "{{slug}}"
+
+    summary: "{{title}} · {{date}}"
+
+    editor:
+      preview: false
+
+    fields:
+
+      - label: "Títol"
+        name: "title"
+        widget: "string"
+        hint: "El títol de la peça sonora."
+
+      - label: "Data de publicació"
+        name: "date"
+        widget: "datetime"
+        date_format: "DD/MM/YYYY"
+        time_format: false
+        format: "YYYY-MM-DD"
+        default: "{{now}}"
+
+      - label: "Descripció"
+        name: "description"
+        widget: "text"
+        hint: "Una breu introducció a l'arxiu sonor."
+
+      - label: "Arxiu d'àudio"
+        name: "audio"
+        widget: "file"
+        choose_url: false
+        hint: "Puja ací l'arxiu d'àudio."
+
+      - label: "Duració"
+        name: "duration"
+        widget: "string"
+        required: false
+        hint: "Opcional. Per exemple: 3:42"
+
+      - label: "Entrada relacionada"
+        name: "relatedEntry"
+        widget: "string"
+        required: false
+        hint: "Opcional. Si aquest àudio correspon a una entrada del blog."
+
+      - label: "Transcripció o text complementari"
+        name: "body"
+        widget: "markdown"
+        required: false

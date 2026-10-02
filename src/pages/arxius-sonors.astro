@@ -1,0 +1,82 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../layouts/Layout.astro";
+
+const arxius = (await getCollection("arxiusSonors"))
+    .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+
+const formatData = (data: Date) =>
+    data.toLocaleDateString("ca-ES", {
+        day: "numeric",
+        month: "long",
+        year: "numeric"
+    });
+---
+
+<Layout
+    title="Arxius sonors · On acaba el soroll"
+    description="Paraules dites en veu alta. Arxius sonors d'On acaba el soroll."
+>
+    <main class="pagina-sonora">
+
+        <header class="cap-sonora">
+            <p class="etiqueta-sonora">ARXIUS SONORS</p>
+
+            <h1>La veu quan les paraules<br />no són només text</h1>
+
+            <p class="introduccio-sonora">
+                Hi ha coses que canvien quan són dites en veu alta.
+                Aquest és un lloc per guardar-les.
+            </p>
+        </header>
+
+        <section class="llista-sonora">
+
+            {arxius.length === 0 ? (
+
+                <p class="sense-arxius">
+                    Encara no hi ha cap arxiu sonor.
+                </p>
+
+            ) : (
+
+                arxius.map((arxiu, index) => (
+
+                    <article class="arxiu-sonor">
+
+                        <div class="numero-sonor">
+                            {String(index + 1).padStart(2, "0")}
+                        </div>
+
+                        <div class="contingut-sonor">
+
+                            <p class="data-sonora">
+                                {formatData(arxiu.data.date)}
+                                {arxiu.data.duration &&
+                                    <> · {arxiu.data.duration}</>
+                                }
+                            </p>
+
+                            <h2>{arxiu.data.title}</h2>
+
+                            <p class="descripcio-sonora">
+                                {arxiu.data.description}
+                            </p>
+
+                            <audio controls preload="metadata">
+                                <source src={arxiu.data.audio} />
+                                El teu navegador no permet reproduir aquest àudio.
+                            </audio>
+
+                        </div>
+
+                    </article>
+
+                ))
+
+            )}
+
+        </section>
+
+    </main>
+</Layout>
