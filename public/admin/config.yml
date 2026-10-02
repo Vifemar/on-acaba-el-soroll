@@ -10,6 +10,7 @@ locale: "ca"
 publish_mode: editorial_workflow
 
 collections:
+
   - name: "pagines"
     label: "Pàgines"
 
@@ -33,7 +34,6 @@ collections:
             name: "body"
             widget: "markdown"
 
-
       - name: "sobre-mi"
         label: "Sobre mi"
         file: "src/content/pagines/sobre-mi.md"
@@ -51,6 +51,7 @@ collections:
           - label: "Text"
             name: "body"
             widget: "markdown"
+
 
   - name: "entrades"
     label: "Entrades"
@@ -125,7 +126,9 @@ collections:
         modes:
           - "rich_text"
           - "raw"
-            - name: "arxius-sonors"
+
+
+  - name: "arxius-sonors"
     label: "Arxius sonors"
     label_singular: "Arxiu sonor"
 
