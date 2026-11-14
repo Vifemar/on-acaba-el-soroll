@@ -4,7 +4,7 @@ date: 2026-11-14
 category: Fragments
 description: Una paraula sentida per atzar em torna als teus missatges, a les
   converses que allargàvem de nit i al costum, encara viu, de voler contar-te
-  les coses.
+  les coses. I adonar-me que només tu la trobaries graciosa.
 ---
 Ahir, mentre sopàvem, algú va dir una paraula que tu escrivies malament a posta. Venia d’una errada del corrector, d’una nit en què parlàvem mig adormits i cap dels dos tenia ganes de ser el primer a acomiadar-se. La vaig sentir i vaig començar a riure abans de recordar on estava. «És que una vegada…», vaig dir, i em vaig quedar amb la frase a mitges, perquè per explicar aquella ximpleria hauria hagut de parlar de tu, dels missatges a deshora, de tot el que havíem anat acumulant al voltant d’una paraula fins que ja ens bastava escriure-la per saber de què parlàvem. Algú em va preguntar què passava. Vaig dir que res, una broma antiga, i la conversa va continuar mentre jo buscava el mòbil dins de la butxaca. Vaig arribar a desbloquejar-lo. Encara em passa, de vegades, que tinc alguna cosa per contar-te i durant uns segons tot em sembla tan fàcil com abans.
 
