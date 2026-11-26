@@ -31,3 +31,5 @@ Potser la tragèdia no consisteix a haver pres decisions equivocades, sinó a ha
 El plusquamperfet de subjuntiu és la manera que té la gramàtica de rebel·lar-se contra la irreversibilitat del temps. Una rebel·lió inútil, condemnada al fracàs, però profundament humana. Perquè, malgrat saber que no podem tornar arrere, continuem buscant alguna escletxa entre els verbs, alguna irregularitat en la conjugació que ens permeta recuperar allò que perdérem o viure allò que no arribàrem a viure.
 
 I pensar que, quan érem xiquets, només ens preocupava que este temps verbal entrara a l’examen. Qui ens hagués dit que acabaríem plorant mentre el conjugàvem.
+
+![](/uploads/plusquamperfet.jpg)
