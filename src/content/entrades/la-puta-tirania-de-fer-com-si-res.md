@@ -33,9 +33,7 @@ Quin equilibri? El que teníem quan encara no sabíem qui collons érem?
 
 Em resulta especialment cruel haver de convertir en una presència ordinària algú que mai no ho ha sigut. Haver de vigilar la tendresa, fiscalitzar l'espontaneïtat, censurar una frase abans de pronunciar-la, calcular la duració d'una mirada. Viure amb una mena de policia emocional instal·lada permanentment dins del crani, vigilant que no se t'escape ni una engruna de veritat.
 
-Estic fart d'empassar-me les paraules. Fart de la tendresa clandestina. Fart de la puta aritmètica de les distàncies. Fart d'haver de pensar dues vegades allò que abans em naixia sense pensar.
-
-Fart de trobar a faltar algú fins i tot quan el tinc davant. I fart de trobar-me a faltar a mi mateix quan estic amb eixa persona.
+Estic fart d'empassar-me les paraules. Fart de la tendresa clandestina. Fart de la puta aritmètica de les distàncies. Fart d'haver de pensar dues vegades allò que abans em naixia sense pensar. Fart de trobar a faltar algú fins i tot quan el tinc davant. I fart de trobar-me a faltar a mi mateix quan estic amb eixa persona.
 
 Perquè hi ha absències que no són físiques. Hi ha persones que continuen estant i identitats que, tanmateix, han hagut de refugiar-se en la clandestinitat. No hi ha funeral per a això, ni dol reconegut, ni cap ritual que legitime la devastació. Com expliques que enyores una part de tu mateix que continua existint però que ja no troba l'espai on manifestar-se?
 
@@ -63,18 +61,10 @@ M'he passat massa temps traduint les entranyes al llenguatge civilitzat de les c
 
 La ficció que no ha passat res.
 
-Doncs ha passat. I no sols he descobert la immensitat del que puc arribar a sentir. M'he descobert a mi mateix sentint-ho. Ara sé coses de mi que abans ignorava. Ara conec una profunditat pròpia de la qual desconeixia l'existència. I no puc desfer eixe coneixement per molt inconvenient que resulte. No puc tornar voluntàriament a la ignorància de qui era abans.
+Doncs ha passat. I no sols he descobert la immensitat del que puc arribar a sentir. M'he descobert a mi mateix sentint-ho. Ara sé coses de mi que abans ignorava. Ara conec una profunditat pròpia de la qual desconeixia l'existència. I no puc desfer eixe coneixement per molt inconvenient que resulte. No puc tornar voluntàriament a la ignorància de qui era abans. No vull que el dolor desaparega a costa d'haver de desaparéixer jo.
 
-No vull que el dolor desaparega a costa d'haver de desaparéixer jo.
+Que es trenque el relat. Que fracasse l'aparença. Que se'n vaja a la merda el personatge impecable, assenyat i emocionalment domesticat que he intentat representar tantes vegades. Perquè, si recuperar-me significa renunciar a la identitat que he descobert precisament quan més intensament he viscut, a qui collons se suposa que estic recuperant?
 
-Que es trenque el relat. Que fracasse l'aparença. Que se'n vaja a la merda el personatge impecable, assenyat i emocionalment domesticat que he intentat representar tantes vegades.
+A mi? O al desconegut que era abans de conéixer-me?
 
-Perquè, si recuperar-me significa renunciar a la identitat que he descobert precisament quan més intensament he viscut, a qui collons se suposa que estic recuperant?
-
-A mi?
-
-O al desconegut que era abans de conéixer-me?
-
-No em penedisc d'haver sentit tant.
-
-Em revolta que, després d'haver descobert qui soc de veres, haja de continuar fingint que soc un altre.
+No em penedisc d'haver sentit tant. Em revolta que, després d'haver descobert qui soc de veres, haja de continuar fingint que soc un altre.
