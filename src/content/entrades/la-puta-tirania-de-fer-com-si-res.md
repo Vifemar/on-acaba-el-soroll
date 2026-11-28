@@ -39,29 +39,19 @@ Perquè hi ha absències que no són físiques. Hi ha persones que continuen est
 
 I després estan els evangelistes de la superació personal, els apòstols de passar pàgina, els imbècils de les frases motivacionals. Però encara hi ha una cosa que em revolta més: la patologització del sentiment. Eixa mania contemporània de medicalitzar qualsevol experiència humana que no s'ajuste als paràmetres convencionals del benestar. Si continues estimant quan presumptament hauries d'haver deixat de fer-ho, tens un problema. Si enyores més enllà del termini que algú considera raonable, tens un problema. I hi ha qui, fins i tot, et suggerix que necessites ajuda externa, com si la intensitat emocional constituïra, per si mateixa, una evidència de malaltia.
 
-Què collons se suposa que m'han de curar?
-
-La capacitat d'estimar? La memòria? La tendresa? La identitat que he descobert a través de tot això? Se suposa que he de desaprendre qui soc per tornar a ser emocionalment homologable?
+Què collons se suposa que m'han de curar? La capacitat d'estimar? La memòria? La tendresa? La identitat que he descobert a través de tot això? Se suposa que he de desaprendre qui soc per tornar a ser emocionalment homologable?
 
 No qüestione el valor de l'ajuda psicològica. Qüestione l'arrogància de diagnosticar des de fora l'experiència emocional dels altres, de confondre automàticament la persistència d'un afecte amb una obsessió i el patiment amb una patologia. Potser el problema no és la intensitat amb què sent, sinó la contradicció entre allò que he descobert que soc i allò que les circumstàncies em permeten ser.
 
-Potser no em dol haver arribat a eixa intensitat. Potser em dol haver d'amputar tot el que he descobert de mi mateix gràcies a ella.
-
-I això és una tragèdia humana, no necessàriament un diagnòstic.
+Potser no em dol haver arribat a eixa intensitat. Potser em dol haver d'amputar tot el que he descobert de mi mateix gràcies a ella. I això és una tragèdia humana, no necessàriament un diagnòstic.
 
 No necessite que ningú m'explique la realitat. La conec. Me la menge cada puto dia. La realitat i el sentiment conviuen dins de mi amb una lucidesa ferotge. Ho entenc tot. I no per això em dol menys. La intel·ligència no és una anestèsia. Si comprendre les causes del dolor fora suficient per a eliminar-lo, conéixer l'anatomia humana ens faria immunes al patiment físic.
 
-Tampoc pense participar en eixe exercici miserable de rebaixar retrospectivament la importància del que hem viscut. Convéncer-nos que no era per a tant, que ens havíem equivocat, que havíem idealitzat, que tot plegat era una estupidesa. Necessitem embrutar el record perquè ens resulte més fàcil abandonar-lo.
-
-Doncs no. No pense convertir la bellesa en merda perquè la merda siga més fàcil d'abandonar.
+Tampoc pense participar en eixe exercici miserable de rebaixar retrospectivament la importància del que hem viscut. Convéncer-nos que no era per a tant, que ens havíem equivocat, que havíem idealitzat, que tot plegat era una estupidesa. Necessitem embrutar el record perquè ens resulte més fàcil abandonar-lo. Doncs no. No pense convertir la bellesa en merda perquè la merda siga més fàcil d'abandonar.
 
 Els meus sentiments no són una factura que haja de pagar una altra persona. Però tampoc són un delicte pel qual haja de complir condemna dins de mi mateix. No demane absolució, ni permís, ni aspire a convertir-me en algú a qui li importe menys tot allò que li ha importat tant.
 
-M'he passat massa temps traduint les entranyes al llenguatge civilitzat de les conveniències, administrant silencis i convertint-me en còmplice de la ficció que més mal em fa.
-
-La ficció que no ha passat res.
-
-Doncs ha passat. I no sols he descobert la immensitat del que puc arribar a sentir. M'he descobert a mi mateix sentint-ho. Ara sé coses de mi que abans ignorava. Ara conec una profunditat pròpia de la qual desconeixia l'existència. I no puc desfer eixe coneixement per molt inconvenient que resulte. No puc tornar voluntàriament a la ignorància de qui era abans. No vull que el dolor desaparega a costa d'haver de desaparéixer jo.
+M'he passat massa temps traduint les entranyes al llenguatge civilitzat de les conveniències, administrant silencis i convertint-me en còmplice de la ficció que més mal em fa. La ficció que no ha passat res. Doncs ha passat. I no sols he descobert la immensitat del que puc arribar a sentir. M'he descobert a mi mateix sentint-ho. Ara sé coses de mi que abans ignorava. Ara conec una profunditat pròpia de la qual desconeixia l'existència. I no puc desfer eixe coneixement per molt inconvenient que resulte. No puc tornar voluntàriament a la ignorància de qui era abans. No vull que el dolor desaparega a costa d'haver de desaparéixer jo.
 
 Que es trenque el relat. Que fracasse l'aparença. Que se'n vaja a la merda el personatge impecable, assenyat i emocionalment domesticat que he intentat representar tantes vegades. Perquè, si recuperar-me significa renunciar a la identitat que he descobert precisament quan més intensament he viscut, a qui collons se suposa que estic recuperant? A mi? O al desconegut que era abans de conéixer-me?
 
