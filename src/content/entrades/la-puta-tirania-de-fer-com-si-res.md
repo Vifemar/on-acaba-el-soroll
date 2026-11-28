@@ -63,8 +63,6 @@ La ficció que no ha passat res.
 
 Doncs ha passat. I no sols he descobert la immensitat del que puc arribar a sentir. M'he descobert a mi mateix sentint-ho. Ara sé coses de mi que abans ignorava. Ara conec una profunditat pròpia de la qual desconeixia l'existència. I no puc desfer eixe coneixement per molt inconvenient que resulte. No puc tornar voluntàriament a la ignorància de qui era abans. No vull que el dolor desaparega a costa d'haver de desaparéixer jo.
 
-Que es trenque el relat. Que fracasse l'aparença. Que se'n vaja a la merda el personatge impecable, assenyat i emocionalment domesticat que he intentat representar tantes vegades. Perquè, si recuperar-me significa renunciar a la identitat que he descobert precisament quan més intensament he viscut, a qui collons se suposa que estic recuperant?
-
-A mi? O al desconegut que era abans de conéixer-me?
+Que es trenque el relat. Que fracasse l'aparença. Que se'n vaja a la merda el personatge impecable, assenyat i emocionalment domesticat que he intentat representar tantes vegades. Perquè, si recuperar-me significa renunciar a la identitat que he descobert precisament quan més intensament he viscut, a qui collons se suposa que estic recuperant? A mi? O al desconegut que era abans de conéixer-me?
 
 No em penedisc d'haver sentit tant. Em revolta que, després d'haver descobert qui soc de veres, haja de continuar fingint que soc un altre.
